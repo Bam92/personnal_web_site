@@ -5,7 +5,7 @@ body {margin-top: 10px;
     font-family: ubuntu;
 } 
 
-/*Section*/
+/*Sections*/
 #activity .btn, #contact .btn {
     background: none;
 }
@@ -58,7 +58,15 @@ footer {
     height: 30px;
     border-radius: 20px;
     padding-top: 10px;
-    color: #29b6f6
+    /*color: white;*/
+    background-color: white;
+    
+  }
+
+#social .fa {
+    
+    color: red;
+    
     
   }
 img {
