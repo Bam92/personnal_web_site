@@ -38,9 +38,27 @@ h2 {
     background-color: #29b6f6 !important;
 }
 
+.navbar-header a:hover, .nav a:hover {
+    border-top: 3px solid #ff9800;
+    color: #ff9800;
+}
+.navbar-header a:active, .nav a:active {
+    border-top: 3px solid #ff9800;
+    color: #ff9800;
+}
+.jumbotron {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
 
+/*Main*/
+#activity, #say, #blog {padding-bottom: 40px;}
+.section-intro {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 /*footer*/
-footer { 
+footer {
     background-color: #ff9800 !important;
     margin-top: 20px;
     padding-top: 20px;
