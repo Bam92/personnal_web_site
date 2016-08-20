@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
     <meta name="author" content="Abel Lifaefi" />
-    <title>Abel Lifaefi Mbula | Site personnel</title>
+    <title>Abel Lifaefi Mbula | Formation</title>
 
     <!-- CSS  -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
@@ -26,21 +26,47 @@
 <body>
     <div class="container" role="main">
          
-        <!--A slider of important photos-->
-        <section id="slider">
-            
+         <!-- Caroussel
+        ================================================== -->
+
+        <section id="slider" class="row">
+            <div class="col-md-12" height="500px">
+             <div id="carousel" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel" data-slide-to="1"></li>
+                <li data-target="#carousel" data-slide-to="2"></li>
+                <li data-target="#carousel" data-slide-to="3"></li>
+              </ol>
+
+              <div class="carousel-inner">
+                <div class="item active"> <img alt="" src="../img/slide/img1.JPG"></div>
+
+                <div class="item"> <img alt="" src="../img/slide/img2.JPG"></div>
+                <div class="item"> <img alt="" src="../img/slide/img3.JPG"></div>
+                <div class="item"> <img alt="" src="../img/slide/img4.JPG"></div>
+
+                <a class="left carousel-control" href="#carousel" data-slide="prev"><span class="icon-prev"></span></a>
+                <a class="right carousel-control" href="#carousel" data-slide="next"><span class="icon-next"></span></a>
+              </div>
+            </div>
+            </div>
         </section>
         
-        <!--Introduction of this page-->
+         <!-- Introduction of this page
+        ================================================== -->
+
         <section id="intro_training" class="row">
-            <div class="col-lg-10">
-                <p>Mon objectif est simple: </p>
-                <q>Demistifier l'ordinateur au pres du grand public.</q>
-                <p>Je suis convaincu que tout le monde peut se mettre a l'informatique et ce quel que soit son age ou son niveau d'etude.</p>
-                <p>Ayant decouvert ce domaine par curiosite et l'ayant perfectionne en autodidacte grace aux ressources en ligne, je me force de proposer des cours ludiques et stimulants (pousser l'etudiant à toujours aller loin!)</p>
+            <div class="col-lg-8 section-intro">
+                <h2>Ma mission est simple: </h2>
+                <q>Démystifier les <abbr title="Technologies de l'information et de la communication">TIC</abbr> au près du grand public.</q>
+                <p>J'ai une spécialité que j'aime bien: <br>
+                "Je sais traduire le language des techiciens et ingénieurs en B.A-BA pour les novices</p>
+                <p>Je suis donc convaincu que tout le monde peut se mettre à l'informatique et ce quel que soit son âge ou son niveau d'étude.</p>
+                <p>J'ai déjà formé près de 800 personnes dont une cinquantaine certifiés <abbr title="International Computer Driving Licence">ICDL</abbr>Je propose des cours ludiques et passionnants</p>
             </div>
-            <div class="col-lg-2">
-                <img src="../img/profil.jpg" alt="enseignant">
+            <div class="col-lg-4">
+                <img src="../img/profil.jpg" alt="enseignant" id="enseignant" width="350px" height="350px">
             </div>
         </section>
         
@@ -113,6 +139,13 @@
             </div>
         </section>
     </div>
+    <sript src="../js/jquery.js"></sript>
+    <script src="../js/bootstrap.js"></script>
+    <script>
+        $(function () {
+          $('.carousel').carousel({interval: 2000});
+          });
+    </script>
 </body>
     
 </html>
