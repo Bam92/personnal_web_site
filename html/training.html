@@ -30,7 +30,7 @@
         ================================================== -->
 
         <section id="slider" class="row">
-            <div class="col-md-12" height="500px">
+            <div class="col-md-12" height="300px">
              <div id="carousel" class="carousel slide" data-ride="carousel">
               <ol class="carousel-indicators">
                 <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -39,12 +39,39 @@
                 <li data-target="#carousel" data-slide-to="3"></li>
               </ol>
 
-              <div class="carousel-inner">
-                <div class="item active"> <img alt="" src="../img/slide/img1.JPG"></div>
+              <div class="carousel-inner" role="listbox">
+                <div class="item active"> <img alt="" src="../img/slide/img.JPG">
+                    <div class="carousel-caption">
+                        <h2>Dépannage informatique @Université du CEPROMAD</h2>
+                        <p>A unique combination of Indian Uthappam (pancake) and
+                          Italian pizza, topped with Cerignola olives, ripe vine
+                          cherry tomatoes, Vidalia onion, Guntur chillies and
+                          Buffalo Paneer.</p>
+                        
+                    </div>
+                </div>
 
-                <div class="item"> <img alt="" src="../img/slide/img2.JPG"></div>
-                <div class="item"> <img alt="" src="../img/slide/img3.JPG"></div>
-                <div class="item"> <img alt="" src="../img/slide/img4.JPG"></div>
+                <div class="item"> <img alt="" src="../img/slide/img2.JPG">
+                    <div class="carousel-caption">
+                        <h2>Séance recréative</h2>
+                        <p>Avec la facilitatrice Catherine Darbelly de Suisse venue pour certifier les tester ICDL et agréer une représentation locale de l'ICDL à Kisangani</p>
+                        
+                    </div>
+                </div>
+                <div class="item"> <img alt="" src="../img/slide/img3.JPG">
+                    <div class="carousel-caption text-right">
+                        <h2>Cours - tableur Excel</h2>
+                        <p>Séance de formation sur le tableur Excel. Préparation à la certification ICDL</p>
+                        
+                    </div>
+                </div>
+                <div class="item"> <img alt="" src="../img/slide/img4.JPG">
+                    <div class="carousel-caption">
+                        <h2>Pause avec mes étudiants</h2>
+                        <p>Après 4 semaines de formation sur l'initiation à l'informatique, nous avons pris une photo de famille ensemble avec mes étudiants. Nous sommes dans l'asbl NTEB à Kisangani, RDC</p>
+                        
+                    </div>
+                </div>
 
                 <a class="left carousel-control" href="#carousel" data-slide="prev"><span class="icon-prev"></span></a>
                 <a class="right carousel-control" href="#carousel" data-slide="next"><span class="icon-next"></span></a>
@@ -139,11 +166,16 @@
             </div>
         </section>
     </div>
-    <sript src="../js/jquery.js"></sript>
-    <script src="../js/bootstrap.js"></script>
-    <script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="../js/jquery.js"></script> <!--jQuery in local-->
+    
+    <!-- Javascript for Bootstrap -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="../js/bootstrap.js"></script><!--JS for Bootstrap in local-->
+   <script>
         $(function () {
-          $('.carousel').carousel({interval: 2000});
+          $('.carousel').carousel({interval: 3000});
           });
     </script>
 </body>
