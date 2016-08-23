@@ -56,10 +56,13 @@ h2 {
 }
 
 .navbar-header a:hover, .nav a:hover {
-    border-top: 3px solid #ff9800;
+    border-top: 2px solid #ff9800;
     color: #ff9800;
 }
 
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
 .navbar-header a:active, .nav a:active {
     border-top: 3px solid #ff9800;
     color: #ff9800;
