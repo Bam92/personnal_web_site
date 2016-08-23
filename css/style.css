@@ -24,6 +24,11 @@ body {
 .jumbotron h1 {font-size: 2.8em;
     color: #29b6f6;}
 
+.jumbotron {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
 h1,h2,h3,h4,h5,h6 {
     /*font-weight: 400;*/
 }
@@ -60,10 +65,7 @@ h2 {
     color: #ff9800;
 }
 
-.jumbotron {
-    padding-top: 80px;
-    padding-bottom: 40px;
-}
+
 
 /*Main*/
 .section {padding-top: 50px;}
@@ -77,19 +79,19 @@ h2 {
     background:#1A237E;
 }
 .carousel .item {
-  height: 400px;
+  height: 450px;
 }
 
 .item img {
     position: absolute;
     top: 0;
     left: 0;
-    min-height: 400px;
+    min-height: 450px;
     width: 600px;
 }
 .carousel-caption {
     text-align: right;
-    border: 2px solid red;
+    
     right: 2%;
     left: 45%;
     padding-top: 10%;
@@ -97,10 +99,10 @@ h2 {
 }
 
 /*Images*/
-.img-circle {
+.img-center {
     position: relative;
-    right: 20%;
-    left: 20%;
+    right: 35%;
+    left: 35%;
 }
 /*footer*/
 footer {
