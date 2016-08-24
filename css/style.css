@@ -102,12 +102,23 @@ h2 {
     padding-bottom: 15%;
 }
 
+p a, #more {/*Style for all links*/
+    color: inherit;
+    border-bottom: 1px solid orange;
+}
+
+p a:hover, #more:hover {
+    color: #ff9800;
+    border: none;
+}
+
 /*Images*/
 .img-center {
     position: relative;
     right: 35%;
     left: 35%;
 }
+
 /*footer*/
 footer {
     background-color: #ff9800 !important;
