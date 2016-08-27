@@ -69,7 +69,9 @@ h2 {
     color: #ff9800;
 }
 
-
+a:active {
+    color: orange;
+}
 
 /*Main*/
 .section {padding-top: 50px;}
@@ -79,6 +81,10 @@ h2 {
     padding-bottom: 40px;
 }
 
+.section-end {
+    padding-top: 40px;
+}
+/* Carousel */
 .carousel {
     background:#9D9D9D;
     border-radius: 4px;
@@ -103,13 +109,25 @@ h2 {
     padding-top: 10%;
     padding-bottom: 20%;
 }
-
-p a, #more {/*Style for all links*/
+.carousel-indicator {
+    text-align: right;
+}
+.carousel-control {
+    color: white;
+    
+}
+.carousel-control:hover {
+    color: orange;
+   
+}
+p a, .more {/*Style for all links*/
     color: inherit;
     border-bottom: 1px solid orange;
+    
+   
 }
 
-p a:hover, #more:hover {
+p a:hover, .more:hover {
     color: #ff9800;
     border: none;
 }
