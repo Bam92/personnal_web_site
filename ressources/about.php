@@ -207,14 +207,11 @@
                              id="past"    aria-labelledby="yesterday">
                             <div class="panel-body">
                                 <h3>Formateur ICDL</h3>
-                                <p>Our CEO, Peter, credits his hardworking East Asian 
-immigrant parents who undertook the arduous journey to the shores of 
-America with the intention of giving their children the best future. His
- mother's wizardy in the kitchen whipping up the tastiest dishes with 
-whatever is available inexpensively at the supermarket, was his first 
-inspiration to create the fusion cuisines for which <em>The Frying Pan</em> became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections.</p>
+                                <p>J'ai formé plus de 800 personnes sur différentes technologies Microsoft, GNU/Linux, Wikipédia, etc dont une cinquantaine certifié ICDL.</p>
+                                <p>Je travaille en parténariat avec quelques grands centres informatiques de la ville</p>
                                 
                                 <h3>Technicien IT</h3>
+                                <p>J'interviens en entreprise ou à domicile dans le dépannage, la maintenance et la mise en réseau des PC</p>
                             </div>
                         </div>
                     </div>
@@ -240,7 +237,9 @@ inspiration to create the fusion cuisines for which <em>The Frying Pan</em> beca
                                 <p>Je veille à ce que toute l'infrastructure informatique soit fonctionnelle: connexion internet, ordinateurs de bureau, etc. L'école emploie plus de 50 agents permenants et accueille plus de 3000 étudiants</p>
                                 
                                 <h3>Auteur</h3>
+                                <p>Je rassemble tous mes supports de cours en ouvrages pour des générations futures. Je m'éfforce également à être premier à tester de "nouvelles technologies" afin de proposer des cours plus accéssibles aux débutants qu'on trouve difficilement en librairies.</p>
                                 <h3>Freelance</h3>
+                                <p>Je travaille sur différentes missions web en freelance. Mes clients proviennent pour la plupart d' <a href="https://www.openclassrooms.com">OpenClassrooms</a>, de <a href="https://www.codeur.com">Codeur</a>, de <a href="https://www.freelance.com">Freelance</a> et bien plus... </p>
                             </div>
                         </div>
                     </div>
@@ -262,14 +261,10 @@ inspiration to create the fusion cuisines for which <em>The Frying Pan</em> beca
                              id="future"    aria-labelledby="tomorrow">
                             <div class="panel-body">
                                 <h3>Chef de projet</h3>
-                                <p>Our CEO, Peter, credits his hardworking East Asian 
-immigrant parents who undertook the arduous journey to the shores of 
-America with the intention of giving their children the best future. His
- mother's wizardy in the kitchen whipping up the tastiest dishes with 
-whatever is available inexpensively at the supermarket, was his first 
-inspiration to create the fusion cuisines for which <em>The Frying Pan</em> became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections.</p>
+                                <p>Gérer des projets web de grande envergure demande une certaine compétence et une très longue expérience. Il y a fort à parier que je sois déjà dans la voie d'y parvenir. Monter une SSII ou une startup est donc une voie légale pour moi afin de travailler sur des missions sans précédents (serais-je peut-être le premier à bâtir une interface web la plus perfromante, la plus avancée et la plus facile à utiliser par l'utilisateur?)</p>
                                 
                                 <h3>Enseignant-chercheur en ingénierie informatique</h3>
+                                <p>Pourquoi ne pas tout abandonner et s'occuper uniquement du métier de partage de connaissance et de la recherche? C'est peut-être le dernier défis à relever</p>
                             </div>
                         </div>
                     </div>
