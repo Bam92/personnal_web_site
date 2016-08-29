@@ -102,7 +102,7 @@
                 <div class="col-md-3">
                     <div class="text-center" style="color:#ff9800"><span class ="glyphicon
                         glyphicon-comment"></span ><br> <h3>Communauté</h3></div>
-                    <p>Je suis actif dans plusieurs grands forums informatiques où je passe en moyenne 2 à 3 heures/semaine: <a href="www.openclassrooms.com">OpenClassrooms</a>, <a href="www.developpez.com">Developpez.com</a>, <a href="www.coursera.org">Coursera</a>, ...</p>
+                    <p>Je suis actif dans plusieurs grands forums informatiques où je passe en moyenne 2 à 3 heures/semaine: <a href="https://www.openclassrooms.com">OpenClassrooms</a>, <a href="https://www.developpez.com">Developpez.com</a>, <a href="https://www.coursera.org">Coursera</a>, ...</p>
                     <p>Je suis auteur d'un <abbr title="Cours en ligne massif et ouvert">MOOC</abbr></p>
                 </div>
                 

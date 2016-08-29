@@ -26,31 +26,6 @@
 <body>
     <?php include ("menus.php"); ?>
     
-    <!-- Modal for CV
-    ==============================================================-->
-    <div class="modal fade" id="view-cv" role="dialog">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title text-center">Choisissez le format d'affichage</h4>
-                </div>
-                <div class="modal-body">
-                    <a href="cv.html" class="col-xs-6">
-                        <img alt="web" src="#">
-                        <h4>Web</h4></a>
-                    <a href="#" class="col-xs-6">
-                        <img alt="pdf" src="#">
-                        <h4>Pdf</h4></a>
-                    <p>Lorem ispum door</p>
-                </div>
-                <div class="modal-footer">
-                    <p data-dismiss="modal" class="btn btn-info">Annuler</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    
     <!-- Breadcrumb
     ==============================================================
     <div class="container">
@@ -192,13 +167,13 @@
                     <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
                     </div>
                     <div class="col-md-6">
-                        <h5>Déscription</h5>
+                        <h5 style="color: #29b6f6;">Déscription</h5>
                         <p>NTEB est une asbl belgo-congolaise qui a pour mission de promouvoir les TIC au près de la population boyomaise (Kisangani).</p>
-                        <h5>Parténariat</h5>
+                        <h5 style="color: #29b6f6; margin-top: 25px;">Parténariat</h5>
                             <p>
                         C'est depuis 2013 que je réjoinds l'équipe des formateurs de ce centre pour la formation et la certification ICDL </p>
                         <p>Quelques mois plus tard je prends la commande de la filière informatique en qualité de <strong>Responsable</strong>  de formation et <strong>Technicien IT</strong></p>
-                        <p><a href="www.etudiantsboyomais.org">Lien</a></p>
+                        <p><a href="http://www.etudiantsboyomais.org">Lien</a></p>
                         
                     </div>
                 </div>

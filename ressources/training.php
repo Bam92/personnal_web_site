@@ -162,7 +162,7 @@
                     <h4 class="text-center" style="color:#ff9800">OpenClassrooms</h4>
                     <p>OpenClassrooms est un site éducatif qui a pour mission de rendre l'éducation accessible à tous et de favoriser un apprentissage communautaire et engageant</p>
                      <p>Il cherche des mentors experts et pédagogues pour accompagner ses élèves...</p>
-                     <p>Visiter le <a href="www.openclassrooms.com">site</a></p>
+                     <p>Visiter le <a href="https://www.openclassrooms.com">site</a></p>
                 </div>
                  <div class="col-md-4"><img src="../img/logo-livementor.png" alt="livementor" class="img-center">
                     <h4 class="text-center" style="color:#ff9800">LiveMentor</h4>
@@ -173,18 +173,19 @@
                     <h4 class="text-center" style="color:#ff9800">Codecademy</h4>
                     <p>Interface idéale pour apprendre, enseigner et créer l'éducation en ligne du future</p>
                      <p>Il cherche des personnes motivées pour l'aider à construire l'éducation de demain</p>
-                     <p>Cliquez <a href="www.codecademy.com/about/jobs">ici</a> pour voir les postes disponibles</p>
+                     <p>Cliquez <a href="https://www.codecademy.com/about/jobs">ici</a> pour voir les postes disponibles</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4"><img src="../img/logo-coursera.svg" alt="coursera" class="img-circle img-center">
                     <h4 class="text-center" style="color:#ff9800">Coursera</h4>
                     <p>1<sup>er</sup> site des <abbr title="Cours ouvert et massif en ligne">MOOC</abbr>, Coursera se donne pour mission d'offrir au monde l'accès libre à l'éducation proposée par des prestigieuses universités</p>
-                    <p>Visiter le <a href="www.coursera.org">site</a></p>
+                    <p>Visiter le <a href="https://www.coursera.org">site</a></p>
                 </div>
             </div>
         </section>
     </div>
+    
     <?php include ("footer.php"); ?>
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
