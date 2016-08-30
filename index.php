@@ -204,11 +204,9 @@
                 
                 <div class="col-md-6">
                     <h4>Derniers tweets</h4>
-                    <ul>
-                        <li>Lorem</li>
-                        <li>Lorem</li>
-                        <li>Lorem</li>
-                    </ul>
+                    
+                    <a class="twitter-timeline" href="https://twitter.com/abelmbula"></a> 
+                    
                 </div>
                 <div class="col-md-6">
                     <h4>Derniers billets</h4>
@@ -232,6 +230,7 @@
     <!-- Javascript for Bootstrap -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="js/bootstrap.js"></script><!--JS for Bootstrap in local-->
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 
 </html>
