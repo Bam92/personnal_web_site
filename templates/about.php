@@ -84,7 +84,7 @@
                     <div class="col-xs-12 col-md-3" id="anneeExperience">
                         <div class="text-center" style="color:#ff9800">
                        <span class ="glyphicon
-                        glyphicon-education text-center"></span><h3>6+</h3></div>
+                        glyphicon-briefcase text-center"></span><h3>6+</h3></div>
                         <p>années d'expérience dans l'informatique et le web</p>
                     </div>
                     <div class="col-xs-12 col-md-3" id="personneFormee">
@@ -96,25 +96,27 @@
                     <div class="col-xs-12 col-md-3" id="personneFormee">
                         <div class="text-center" style="color:#ff9800">
                         <span class ="glyphicon
-                        glyphicon-education text-center"></span><h3>1</h3></div>
+                        glyphicon-certificate text-center"></span><h3>1</h3></div>
                         <p>MOOC publié et 2 livres en cours de préparation</p>
                     </div>
                     <div class="col-xs-12 col-md-3" id="personneFormee">
                         <div class="text-center" style="color:#ff9800">
                         <span class ="glyphicon
-                        glyphicon-education text-center"></span><h3>20+</h3></div>
+                        glyphicon-calendar text-center"></span><h3>20+</h3></div>
                         <p>missions informatiques ou web réalisées depuis 2015</p>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-xs-12 col-md-3" id="entreprisePrestee">
                         <div class="text-center" style="color:#ff9800">
                         <span class ="glyphicon
-                        glyphicon-education text-center"></span><h3>3</h3></div>
+                        glyphicon-home text-center"></span><h3>3</h3></div>
                         <p>entreprises/écoles où j'ai géré ou je gère la cellule informatique</p>
                     </div>
                     <div class="col-xs-12 col-md-3" id="serviceClient">
                         <div class="text-center" style="color:#ff9800">
                         <span class ="glyphicon
-                        glyphicon-education text-center"></span><h3>100%</h3></div>
+                        glyphicon-ok-circle text-center"></span><h3>100%</h3></div>
                         <p>garenti de service après vente</p>
                     </div>
                 </div>
@@ -138,7 +140,7 @@
                         </div>
                         
                         <div class="col-xs-12 col-md-4" id="webdev">
-                            <div> <img class="img-circle img-center" src="../img/logo-codecademy.svg" alt="Web developpement" style="background-color:red;"></div>
+                            <div> <img class="img-circle img-center" src="../img/website.jpg" alt="Web developpement"></div>
                             <h4 class="text-center" style="color:#ff9800">Web developpement</h4>
                     <p>Je sais <strong>bâtir des interfaces web</strong> propres, efficaces et mobile-friendly</p>
                             <p>Je fais du développement <strong>front et back end</strong>. Je manupule aussi des frameworks et bibliothèques: Bootstrap, jQuery, AngularJS, etc.</p>
@@ -147,7 +149,7 @@
                             
                         
                         <div class="col-xs-12 col-md-4" id="mobile">
-                            <div> <img class="img-circle img-center" src="../img/android.svg" alt="mobile"></div>
+                            <div> <img class="img-center" src="../img/ionic.png" alt="mobile"></div>
                             <h4 class="text-center" style="color:#ff9800">Mobile</h4>
                         <p>Je fais le développement mobile hybride avec <strong>Ionic</strong></p>
                             <p>Pour le développement mobile native, je suis plutôt orienté <strong>Android</strong> (que j'apprends encore... eh oui ça ne traine pas :))</p>
@@ -162,7 +164,7 @@
                         </div>
                         
                         <div class="col-xs-12 col-md-4" id="remote">
-                            <div> <img class="img-circle img-responsive img-center" src="../img/logo-codecademy.svg" alt="remote" style="background-color:red;"></div>
+                            <div> <img class="img-circle img-responsive img-center" src="../img/remote-work.jpg" alt="remote"></div>
                             <h4 class="text-center" style="color:#ff9800">Remote</h4>
                         <p>J'aime le télé travail. Internet a muri et je pense que notre façon de travailler/collaborer devrait aussi évoluer</p>
                             <p>J'ai une bonne maitrise des outils de collaboration en ligne</p>
@@ -280,30 +282,32 @@
                         <p>Après avoir passé plusieurs années à enseigner, je compet bintôt arrêter (mes collègues vous diront que c'est impossible) pour me concentre uniquement aux publications</p>
 
                     </div>
-                    
-                    <div class="col-md-3"></div>
+                    <div class="row">
+                    <div class="col-md-3"><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1"><img src="../img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
                     <div class="col-md-7">
                         <h3>Potégez l'ensemble de vos données sur votre ordinateur</h3>
-                        <p>C'est un MOOC qui enseigne les notions de base de la sécurité de données personnelles. Il est disponible sur la plateforme <a href="https://www.openclassrooms.com">OpenClassrooms</a> </p>
-                        <p><a href="#">Visiter le MOOC</a></p>
+                        <p>C'est un MOOC qui enseigne les notions de base de la sécurité de données personnelles. Il est disponible sur la plateforme <a href="https://www.openclassrooms.com">OpenClassrooms</a>. 1500+ étudiants se sont inscrits au cours.</p>
+                        <p><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">Visiter le MOOC</a></p>
                     </div>
-                    
-                    <div class="col-md-3">Je suis la</div>
+                    </div>
+                    <div class="row">
+                    <div class="col-md-3"></div>
                     <div class="col-md-7">
                         <h3>Memento d'un technicien IT</h3>
                         <p>A paraître dans les jours à venir</p>
                         <p>Une recette de bonnes pratiques dans le métier d'un helpdesk et un ensemble des pannes + solutions les plus fréquentes</p>
                     </div>
-                    
+                    </div>
+                    <div class="row">
                     <div class="col-md-3">Je suis la</div>
                     <div class="col-md-7">
                         <h3>1 minute de théorie pour bien débuter avec un système GNU/Linux</h3>
                         <p>A paraître dans les jours à venir</p>
                         <p>Je rencontre dans ce livre comment j'ai découvert le monde GNU/Linux et je parle de vocable à maitriser pour travailler sairenement sur un système GNU/Linux</p>
                     </div>
-                    
+                    </div>
                     <div class="col-xs-12 col-md-12">
-                        <p class="text-center section-end">Vous pouvez trouver les condensés de mes leçons et conférences sur <a href="#">GitBook</a>, <a href="#">Slideshare</a> et <a href="#">Courselab</a></p></div>
+                        <p class="text-center section-end">Vous pouvez trouver les condensés de mes leçons et conférences sur <a href="https://www.gitbook.com/@abelmbula/dashboard">GitBook</a>, <a href="http://fr.slideshare.net/Bam92/edit_my_uploads">Slideshare</a> et <a href="https://openclassrooms.com/courses/courselab">Courselab</a></p></div>
                 </div>
 
             </section>

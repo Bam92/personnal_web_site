@@ -181,3 +181,7 @@ footer {
 #name, #email {
     /*display: inline-block;*/
 }
+
+.glyphicon {
+    font-size: 3.5em;
+}
