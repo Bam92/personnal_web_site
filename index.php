@@ -169,12 +169,14 @@
                 <div class="col-md-4">
                     <blockquote><p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p></blockquote>
                 </div>
-                <div class="col-md-2"><img src="img/profil.jpg" alt="image4" class="img-circle">
+                <div class="col-md-2"><img src="img/michel-nteb.png" alt="michel nteb" class="img-circle">
                     <h4>Michel Longombo</h4>
                     <p>Gestionnaire, <strong>NTEB</strong></p>
                 </div>
                 <div class="col-md-4">
-                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p>
+                    <p>Abel est un informaticien compétent, capable et est sûr de ce qu’il fait. C’est-à-dire il connait bien son métier
+                    </p><p>Je l’ai connu comme tout autre. Mais lorsque je me suis approché de lui, j’ai senti la différence par sa façon de travailler
+</p>
                 </div>
             </div>
             <!--<div class="text-center section-end"> <a href="testimony.html" class="more">En savoir plus...</a></div>Link to testimony.html-->
