@@ -25,7 +25,7 @@
                          <p>Je suis donc convaincu que tout le monde peut se mettre à l'informatique et ce quel que soit son âge ou son niveau d'étude.</p>
                 <p>Je sais faire ce que les autres ne font pas: <br>
                 <strong>traduire le language</strong> des techiciens et ingénieurs en B.A-BA pour les novices</p>
-                        <p>N'hésitez pas à me <a data-toggle="modal" data-target="#training-form" data-backdrop="false">contacter</a> pour votre formation</p>
+                        <!--<p>N'hésitez pas à me <a data-toggle="modal" data-target="#training-form" data-backdrop="false">contacter</a> pour votre formation</p>-->
                <!-- Modal Form 'contact-me for your training'
                 =======================================-->
                      <div class="modal fade" id="training-form" role="dialog">
@@ -164,30 +164,30 @@
         <section id="local" class="section">
             <h2 class="text-center">En local</h2>
             <div class="row col-lg-12 text-center section-intro">
-            Que ce soit en entreprises ou dans les locaux des centres de formations professionnelles, j'anime des sessiosn de formations ICDL et autres
+            Que ce soit en entreprises ou dans les locaux des centres de formations professionnelles, j'anime des sessions de formations ICDL et autres
             </div>
             <div class="row">
                 <div class="col-lg-4" id="bureatique"><img src="../img/office.svg" alt="image1" class="img-circle img-center">
                     <h4 class="text-center" style="color:#ff9800">Bureautique</h4>
-                    <p>Initiation aux concepts des <abbr title="Technologies de l'Information et de la Communication">TIC</abbr>, traitement de texte, présentation, le tableur & navigation web</p>
+                    <p>Initiation aux concepts des <abbr title="Technologies de l'Information et de la Communication">TIC</abbr>, traitement de texte, présentation, tableur, web et messagérie</p>
                     <p>L'apprenant apprend directement à être productif pour son emploi: un avantage et pour lui et pour son employeur</p>
                 </div>
                  <div class="col-lg-4"><img src="../img/tools.svg" alt="image1" class="img-circle img-center">
                     <h4 class="text-center" style="color:#ff9800">Maintenance</h4>
-                    <p>Tout le monde reve de pouvoir dépanner un ordinateur, et ... c'est le pourquoi de cette partie. Mes 5 ans d'expérience sont ici dévoilées!</p>
+                    <p>Tout le monde rëve de pouvoir dépanner un ordinateur, et ... c'est le pourquoi de cette partie. Mes 5 ans d'expérience sont ici dévoilées!</p>
                      <p>L'objectif du module est de former les futurs techniciens support des PME</p>
                 </div>
                  <div class="col-lg-4"><img src="../img/reseau.svg" alt="image1" class="img-circle img-center">
-                    <h4 class="text-center" style="color:#ff9800">Reseau</h4>
-                    <p>Imprimer, échanger des fichiers à distance, configurer un <abbr title="Local Area Network">LAN</abbr> (réseau local) sont les maîtres mots de ce module d'initiation au réseau</p>
-                     <p>Je dis egalement un mot sur le depannage reseau</p>
+                    <h4 class="text-center" style="color:#ff9800">Réseau</h4>
+                    <p>Imprimer, échanger des fichiers à distance, configurer un <abbr title="Local Area Network (réseau local)">LAN</abbr>  sont les maîtres mots de ce module d'initiation au réseau</p>
+                     <p>J'enseigne egalement les bases du dépannage réseau</p>
                 </div>
             </div>
             <div class="row">
                  <div class="col-lg-4"><img src="../img/code.svg" alt="image1" class="img-circle img-center">
                     <h4 class="text-center" style="color:#ff9800">Programmation web</h4>
-                    <p>Le developpement web est devenu depuis peu ma specialité. Ajouté à ce qui est inné à moi "le partage de connaissance", je ne peux m'empecher de l'enseigner</p>
-                     <p>J'enseigne essentiellement la programmation côté client dans un but professionnel</p>
+                    <p>Le développement web est devenu depuis peu ma specialité. Ajouté à ce qui est inné à moi "le partage de connaissance", je ne peux m'empêcher de l'enseigner</p>
+                     <p>J'enseigne essentiellement les technologies front-end</p>
                 </div>
                  <div class="col-lg-4"><img src="../img/wordpress.svg" alt="image1" class="img-circle img-center">
                     <h4 class="text-center" style="color:#ff9800">WordPress</h4>
@@ -196,10 +196,10 @@
                 </div>
                  <div class="col-lg-4"><img src="../img/gnu.svg" alt="image1" class="img-circle img-center">
                     <h4 class="text-center" style="color:#ff9800">Autres</h4>
-                    <p>Fan du libre et open source, j'anime des sessions de formations sur Wikipedia, Ubuntu, Android et d'autres solutions/alternatives libres</p>
+                    <p>Fan du libre et open source, j'anime des sessions de formations sur Wikipédia, Ubuntu, Android et d'autres solutions/alternatives libres</p>
                 </div>
                 <div class="row col-lg-12 text-center section-end">
-                   <p>Retrouvez mes supports sur <a href="#">GitBook</a> ou <a href="#">Slideshare</a></p> 
+                   <p>Retrouvez mes supports sur <a href="https://www.gitbook.com/@abelmbula/dashboard">GitBook</a> ou <a href="#">Slideshare</a></p> 
                 </div>
             </div>
         </section>
