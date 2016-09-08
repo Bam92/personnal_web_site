@@ -297,7 +297,7 @@
                 </div>
 
             </section>
-            
+            <!--
             <section id="life">
                 <h2 class="text-center">Dans la vraie vie...</h2>
                 <div class="row">
@@ -309,7 +309,7 @@
                     <div class="col-md-3"></div>
                     
                 </div>
-            </section>
+            </section>-->
         </div>
         
     <!-- Scrollspy with affix
@@ -321,7 +321,7 @@
                 <li><a href="#proficiency">Compétences</a></li>
                 <li><a href="#job">Profession</a></li>
                 <li><a href="#publication">Publications</a></li>
-                <li><a href="#life">Hobbies</a></li>
+                <!--<li><a href="#life">Hobbies</a></li>-->
             </ul>
             </nav>
         </div>
