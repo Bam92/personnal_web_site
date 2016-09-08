@@ -32,8 +32,8 @@
         <div class="container">
             <div class="row row-header">
                 <div class="col-md-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
-                    <h3>Abel Lifaefi Mbula</h3>
-                    <h4>Developpeur Full Stack et Formateur
+                    <h3 class="text-center">Abel Lifaefi Mbula</h3>
+                    <h4 class="text-center">Developpeur Full Stack et Formateur
                     </h4>
                 </div>
                 <div class="col-xs-12 col-md-8">
