@@ -11,6 +11,8 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
     <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
     
 
@@ -46,7 +48,7 @@
     <header class="jumbotron">
         <div class="container">
             <div class="row row-header">
-                <div class="col-md-4"><img src="img/profil-abel-2016.png" alt="profil" class="media-object img-thumbnail" height="300" width="300">
+                <div class="col-md-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
                     <h3>Abel Lifaefi Mbula</h3>
                     <h4>Developpeur Full Stack et Formateur
                     </h4>
@@ -182,7 +184,7 @@
                     <p>Chercheuse, <strong>CSB</strong></p>
                 </div>
                 <div class="col-md-4">
-                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p>
+                    <blockquote><p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p></blockquote>
                 </div>
                 <div class="col-md-2"><img src="img/profil.jpg" alt="image4" class="img-circle">
                     <h4>Michel Longombo</h4>

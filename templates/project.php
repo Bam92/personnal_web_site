@@ -49,11 +49,24 @@
             <h2 class="text-center">Mes réalisations récentes...</h2>
 			<div class="row">
 				<div class="col-md-12 text-center section-intro">
-                    <p> </p>
+                    <p> Une sélection de mes dernières réalisations des sites web</p>
                 </div>
 			</div>
             <div class="container-fluide">
-                <div class="row">
+                <div class="jumbotron">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h1>con Fusion</h1>
+                            <ul style="font-style: italic;">
+                                <li><span aria-hidden="true">#</span>intégration</li>
+                                <li><span aria-hidden="true">#</span>développement</li>
+
+                            </ul>
+                            <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
+                            <p><a href="about.html" class="more">En savoir plus...</a></p>
+                        </div>
+                        <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
+                    </div>
                 </div>
                 
             </div>

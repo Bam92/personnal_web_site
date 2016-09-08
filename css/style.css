@@ -146,8 +146,15 @@ footer {
     margin-top: 20px;
     padding-top: 20px;
     color: #fff;
+    opacity: .75;
 }
-
+footer a {
+    color: #fff;
+    opacity: .75;
+}
+.footer-title {
+    color: #fff;
+}
 #copyright {
     height: 50px;
     line-height: 50px;
@@ -155,23 +162,30 @@ footer {
     background-color: rgba(51,51,51,0.08);
 }
 #social .btn {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     border-radius: 20px;
-    padding-top: 10px;
-    /*color: white;*/
-   background-color: beige;
-    border-color: beige;
+    /*padding-top: 5px;
+    padding-right: 5px;*/
+    
+    color: rgba(0,0,0,.85);
+    
+   /*background-color: beige;*/
+    /*border-color: beige;*/
     
   }
-#twitter: hover {background-color: blue;}
+.fa {
+    padding: (2px, 2px, 2px, 2px);
+}
+#twitter: hover {background-color: red;}
 
-#twitter {
+/*#twitter {
     
     background-color: red;
     
     
-  }
+  }*/
+
 .img-circle {
     width: 100px;
     height: 100px;
@@ -184,4 +198,16 @@ footer {
 
 .glyphicon {
     font-size: 3.5em;
+}
+
+/*#footer-contact .glyphicion {
+    font-size: 5em;
+    border: 2px solid red;
+}*/
+
+blockquote p::before {
+    content: "\201C";
+    position: absolute;
+    color: orange;
+    left: .5rem;
 }

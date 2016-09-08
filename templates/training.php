@@ -238,7 +238,7 @@
                     <p>Site de cours particulier en ligne, LiveMentor met en relation un mentor avec un élève. On y trouve des cours du collège, lycée et supérieur et professionnel</p>
                      <p>Voir mon <a href="#">profil</a></p>
                 </div>
-                 <div class="col-md-4"><img src="../img/logo-codecademy.svg" alt="codecademy" style="background-color:black;" class=" img-circle img-center">
+                 <div class="col-md-4"><img src="../img/logo-codecademy.png" alt="codecademy" width="100px" class="img-center">
                     <h4 class="text-center" style="color:#ff9800">Codecademy</h4>
                     <p>Interface idéale pour apprendre, enseigner et créer l'éducation en ligne du future</p>
                      <p>Il cherche des personnes motivées pour l'aider à construire l'éducation de demain</p>
