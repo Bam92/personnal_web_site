@@ -143,19 +143,18 @@
             <div class="row">
                 <div class="col-md-2"><img src="img/profil.jpg" alt="image1" class="img-circle">
                     <h4>Pierre Mukadi</h4>
-                    <h5>Admin systeme et reseau, <strong>UNIKIS</strong></h5>
+                    <h5>Net et sys Admin, <strong><a href="http://www.unikis.ac.cd">UNIKIS</a></strong></h5>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 think">
                     <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
                     Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnknLorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje </p>
-                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
-                    Lorem ipsom dokjkwje</p>
+                    <p></p>
                 </div>
                 <div class="col-md-2"><img src="img/profil.jpg" alt="image2" class="img-circle">
                     <h4>Catherine Darbelly</h4>
                     <h5>Chef d'entreprise, <strong>CD Training</strong></h5>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 think">
                     <p>m dokjkwje ejkwnkd kjdnskjhkjd kjnks kjkwje ejkwnkd kjdnskjhkjd kjnksnkn</p>
                     <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
                     Lorem ipsom dokjkwje</p>
@@ -166,15 +165,15 @@
                     <h4>Patience Kavira</h4>
                     <p>Chercheuse, <strong>CSB</strong></p>
                 </div>
-                <div class="col-md-4">
-                    <blockquote><p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p></blockquote>
+                <div class="col-md-4 think">
+                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p>
                 </div>
                 <div class="col-md-2"><img src="img/michel-nteb.png" alt="michel nteb" class="img-circle">
                     <h4>Michel Longombo</h4>
                     <p>Gestionnaire, <strong>NTEB</strong></p>
                 </div>
-                <div class="col-md-4">
-                    <p>Abel est un informaticien compétent, capable et est sûr de ce qu’il fait. C’est-à-dire il connait bien son métier
+                <div class="col-md-4 think">
+                    <p>Abel est un informaticien compétent, capable et est sûr de ce qu’il fait. C’est-à-dire qu'il connait bien son métier
                     </p><p>Je l’ai connu comme tout autre. Mais lorsque je me suis approché de lui, j’ai senti la différence par sa façon de travailler
 </p>
                 </div>

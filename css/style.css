@@ -154,6 +154,7 @@ p a:hover, .more:hover {
     border-radius: 3px;
     border: 1px solid #ff9800;
 }
+
 /*footer*/
 footer {
     background-color: #ff9800 !important;
@@ -219,9 +220,19 @@ footer a {
     border: 2px solid red;
 }*/
 
-blockquote p::before {
+.think::before {
     content: "\201C";
     position: absolute;
     color: orange;
-    left: .5rem;
+    left: -2.8rem;
+    top: -3.2rem;
+    font-size: 5em;
 }
+/*.think::after {
+    content: "\201C";
+    position: absolute;
+    color: orange;
+    right: .9rem;
+    top: .7rem;
+    font-size: 5em;
+}*/
