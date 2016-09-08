@@ -2,26 +2,9 @@
 <html lang="fr">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
-    <meta name="author" content="Abel Lifaefi" />
-    <title>Abel Lifaefi Mbula | Site personnel</title>
-
-    <!-- CSS  -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
-    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <?php include ("includes/head-import.php"); ?>
     
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <title>Abel Lifaefi Mbula | Site personnel</title>
     
 </head>
 
@@ -109,7 +92,7 @@
                 </div>
                 
             </div>
-            <div class="text-center section-end"> <a href="about.html" class="more">En savoir plus...</a></div><!--Link to about.html-->
+            <div class="text-center section-end"><button id="myButton"> <a href="about.html" class="more">En savoir plus</a></button></div><!--Link to about.html-->
         </section>
         
         <section id="project" class="section">
@@ -146,7 +129,7 @@
                  <div class="col-md-offset-1 col-md-6"><img src="img/project/afac.JPG" alt="afac" width="100%" height="80%" style="margin-bottom:40px;"></div>
             </div>
             
-            <div class="text-center section-end"> <a href="about.html" class="more">En savoir plus...</a></div><!--Link to about.html-->
+            <div class="text-center section-end"> <button id="myButton"> <a href="templates/about.php" class="more">En savoir plus</a></button></div><!--Link to about.html-->
         </section>
 
         <section id="say" class="section">
@@ -194,9 +177,9 @@
                     <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p>
                 </div>
             </div>
-            <div class="text-center section-end"> <a href="testimony.html" class="more">En savoir plus...</a></div><!--Link to testimony.html-->
+            <!--<div class="text-center section-end"> <a href="testimony.html" class="more">En savoir plus...</a></div>Link to testimony.html-->
         </section>
-        <section id="blog" class="section">
+       <!-- <section id="blog" class="section">
             <h2 class="text-center">Sur le blog et les réseaux sociaux...</h2>
             <div class="row">
 				<div class="col-md-12 text-center section-intro">
@@ -220,7 +203,7 @@
                 </div>
 			</div>
          
-        </section>
+        </section>-->
     </div>
     
    <?php include ("includes/footer.php"); ?>

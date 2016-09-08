@@ -140,6 +140,20 @@ p a:hover, .more:hover {
     left: 35%;
 }
 
+#myButton {
+    background: #ff9800;
+    color: #fff;
+    border-color: #ff9800;
+    border-radius: 3px;
+    border: 1px solid #ff9800;
+}
+#myButton:hover {
+    background: #fff;
+    color: #ff9800;
+    border-color: #fff;
+    border-radius: 3px;
+    border: 1px solid #ff9800;
+}
 /*footer*/
 footer {
     background-color: #ff9800 !important;
