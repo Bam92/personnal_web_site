@@ -33,7 +33,7 @@
             <div class="row row-header">
                 <div class="col-md-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
                     <h3 class="text-center">Abel Lifaefi Mbula</h3>
-                    <h4 class="text-center">Developpeur Full Stack et Formateur
+                    <h4 class="text-center">Développeur Full Stack et Formateur
                     </h4>
                 </div>
                 <div class="col-xs-12 col-md-8">
@@ -43,7 +43,7 @@
                     <ul style="font-size: 1.3em;">
                         <li><strong>enseignement</strong>: informatique et web</li>
                         <li><strong>services</strong>: maintenance des parcs, conception des sites web...</li>
-                        <li><strong>conseil</strong></li>
+                        <li><strong>conseil: </strong>hébergement, BDD, ...</li>
                     </ul>
                     <p>
                         Vous avez tout intérêt à confier vos projets informatiques à un <strong>professionnel! </strong>Non? :)

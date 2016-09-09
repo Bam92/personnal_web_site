@@ -31,6 +31,11 @@ body {
     padding-bottom: 20px;
 }
 
+.container-fluid .jumbotron {
+    margin-right: 0px;
+    margin-left: auto;
+}
+
 h1,h2,h3,h4,h5,h6 {
     /*font-weight: 400;*/
 }
@@ -153,6 +158,10 @@ p a:hover, .more:hover {
     border-color: #fff;
     border-radius: 3px;
     border: 1px solid #ff9800;
+}
+
+.badge {
+    background: orange;
 }
 
 /*footer*/

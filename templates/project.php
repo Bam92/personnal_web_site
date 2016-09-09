@@ -29,43 +29,53 @@
     </div>-->
     
    
-    <div class="container" role="main">
+    <div class="container-fluid" role="main">
         
         
         <section id="recent-project" class="section">
-            <h2 class="text-center">Mes réalisations récentes...</h2>
+            <div class="container">
+            <h2 class="text-center" style="padding-top: 20px;">Mes réalisations récentes...</h2>
 			<div class="row">
 				<div class="col-md-12 text-center section-intro">
                     <p> Une sélection de mes dernières réalisations des sites web</p>
                 </div>
 			</div>
-            <div class="container-fluide">
-                <div class="jumbotron">
+            </div>
+            <div class="jumbotron" style="margin-right: 0;">
+            <div class="container">
+                
                     <div class="row">
                         <div class="col-md-4">
                             <h1>con Fusion</h1>
-                            <ul style="font-style: italic;">
+                            <ul style="font-style: italic; display: inline-block;">
                                 <li><span aria-hidden="true">#</span>intégration</li>
                                 <li><span aria-hidden="true">#</span>développement</li>
 
                             </ul>
                             <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
-                            <p><a href="about.html" class="more">En savoir plus...</a></p>
+                            <p><a href="confusion.php" class="more">En savoir plus...</a></p>
                         </div>
                         <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
                     </div>
                 </div>
                 
             </div>
-            <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
+            
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4" style="background-image: ;">
+                    <h3>CSB</h3></div>
+                    <div class="col-md-4" style="background-image: ;">
+                    <h3>NTEB</h3></div>
+                    <div class="col-md-4" style="background-image: ;">
+                    <h3>Abel</h3></div>
+                    <div class="col-md-4" style="background-image: ;">
+                    <h3>La maison d'architecte</h3></div>
+                    <div class="col-md-4" style="background-image: ;">
+                    <h3>Superpose</h3></div>
+                    <div class="col-md-4" style="background-image: ;"></div>
+                </div>
             </div>
-          
         </section>
         <!--
         <section id="training" class="section">
@@ -109,7 +119,7 @@
                 </div>
             
         </section>-->
-
+        <div class="container">
         <section id="partenaire" class="section">
             <h2 class="text-center">Mes partenaires...</h2>
             <div class="row">
@@ -324,7 +334,7 @@
     </div> 
     
         </section>
-       
+       </div>
     </div>
     
    <?php include ("../includes/footer.php"); ?>
