@@ -67,7 +67,7 @@
             </div>
           
         </section>
-        
+        <!--
         <section id="training" class="section">
             <h2 class="text-center">Extrait de mes formations...</h2>
             
@@ -76,7 +76,7 @@
                 </div>
                 <div class="row">
                     <!-- Carousel
-            =====================================-->
+            =====================================-
             <div class="col-xs-12">
                  <div id="carousel" class="carousel slide" data-ride="carousel">
                   <ol class="carousel-indicators">
@@ -108,13 +108,13 @@
             </div>
                 </div>
             
-        </section>
+        </section>-->
 
         <section id="partenaire" class="section">
             <h2 class="text-center">Mes partenaires...</h2>
             <div class="row">
 				<div class="col-md-12 text-center section-intro">
-                    <p>Ci-dessous quelques-unes de mes références.<br/>
+                    <p>Ci-dessous quelques-unes de mes références.
                     Cliquez pour plus de détail</p>
                     
                 </div>
@@ -123,7 +123,7 @@
                 
             </div>
             <!-- Carousel
-            =====================================-->
+            =====================================
             <div class="col-md-4">
                  <div id="carousel" class="carousel slide" data-ride="carousel">
                   <ol class="carousel-indicators">
@@ -152,10 +152,25 @@
                 <a class="right carousel-control" href="#carousel" data-slide="next"><span class="icon-next"></span></a>
               </div>
             </div>
-            </div>
+            </div>-->
+            
+            <div class="col-md-2" data-toggle="modal" data-target="#nteb" data-backdrop="false"> <img alt="" src="../img/parternaires/logonteb.jpg"  width="100%" height="100%">
+                        
+                    </div>
+
+                    <div class="col-md-2" data-toggle="modal" data-target="#unikis" data-backdrop="false"> <img alt="" src="../img/project/DSC00797.JPG"  width="100%" height="100%">
+                        
+                    </div>
+            <div class="col-md-2" data-toggle="modal" data-target="#inpp" data-backdrop="false"> <img alt="" src="../img/project/confusion.PNG" width="100%" height="100%"></div>
+                    <div class="col-md-2" data-toggle="modal" data-target="#csb" data-backdrop="false"> <img alt="" src="../img/project/afac.JPG"  width="100%" height="100%">
+                       
+                    </div>
+                    <div class="col-md-2" data-toggle="modal" data-target="#istm" data-backdrop="false"> <img alt="istm" src="../img/parternaires/logo-istm.png" width="100%" height="100%"></div>
+         
             
             <!-- Modal
-            =====================================-->
+            =====================================
+                            NTEB-->
              <div class="modal fade" id="nteb" role="dialog">
                 <div class="modal-dialog modal-lg">
                     <div class="modal-content">
@@ -164,7 +179,7 @@
                             <h4 class="modal-title text-center">NTEB <small>(Nouvelles Technologies pour les Etudiants Boyomais)</small></h4>
                         </div>
                 <div class="modal-body">
-                    <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
+                    <div class="col-md-6"><img src="../img/parternaires/nteb.JPG" alt="nteb" width="100%" height="400px">
                     </div>
                     <div class="col-md-6">
                         <h5 style="color: #29b6f6;">Déscription</h5>
@@ -183,6 +198,130 @@
             </div>
         </div>
     </div>
+            
+           <!-- Modal
+            =====================================
+                            UNIKIS-->
+             <div class="modal fade" id="unikis" role="dialog">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title text-center">UNIKIS <small>(Université de Kisangani)</small></h4>
+                        </div>
+                <div class="modal-body">
+                    <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
+                    </div>
+                    <div class="col-md-6">
+                        <h5 style="color: #29b6f6;">Déscription</h5>
+                        <p>UNIKIS est un établissement d'enseignement supérieur public à Kisangani.</p>
+                        <h5 style="color: #29b6f6; margin-top: 25px;">Parténariat</h5>
+                            <p>
+                        Je travaille avec cette université pour la formation et la certification ICDL de son personnel administratif dans le cadre des projets UNIVERSITIC, VLIR, CUI</p>
+                        
+                        <p><a href="http://www.unikis.ac.cd">Lien</a></p>
+                        
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <p data-dismiss="modal" class="btn btn-info">Annuler</p>
+                </div>
+            </div>
+        </div>
+    </div> 
+            
+             <!-- Modal
+            =====================================
+                            INPP -->
+             <div class="modal fade" id="inpp" role="dialog">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title text-center">INPP <small>(Institut national de préparation professionnelle)</small></h4>
+                        </div>
+                <div class="modal-body">
+                    <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
+                    </div>
+                    <div class="col-md-6">
+                        <h5 style="color: #29b6f6;">Déscription</h5>
+                        <p>INPP est un centre de formation public en RDC.</p>
+                        <h5 style="color: #29b6f6; margin-top: 25px;">Parténariat</h5>
+                            <p>
+                        Pour son bureau de Kisangani, je suis vacateur de cours de maintenance informatique</p>
+                        
+                        <p><a href="#">Lien</a></p>
+                        
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <p data-dismiss="modal" class="btn btn-info">Annuler</p>
+                </div>
+            </div>
+        </div>
+    </div> 
+            
+             <!-- Modal
+            =====================================
+                            CSB -->
+             <div class="modal fade" id="csb" role="dialog">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title text-center">CSB <small>(Centre de surveillance de la biodivesité)</small></h4>
+                        </div>
+                <div class="modal-body">
+                    <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
+                    </div>
+                    <div class="col-md-6">
+                        <h5 style="color: #29b6f6;">Déscription</h5>
+                        <p>CSB est un grand centre de recherche sur la biodivesité en Afrique centrale.</p>
+                        <h5 style="color: #29b6f6; margin-top: 25px;">Parténariat</h5>
+                            <p>
+                        Je travaille avec cette institution pour la formation et la certification ICDL des chercheurs.</p>
+                        
+                        <p><a href="#">Lien</a></p>
+                        
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <p data-dismiss="modal" class="btn btn-info">Annuler</p>
+                </div>
+            </div>
+        </div>
+    </div> 
+            
+             <!-- Modal
+            =====================================
+                            ISTM -->
+             <div class="modal fade" id="istm" role="dialog">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title text-center">ISTM <small>(Institut supérieur des techniques médicales )</small></h4>
+                        </div>
+                <div class="modal-body">
+                    <div class="col-md-6"><img src="../img/parternaires/istm.JPG" alt="" width="100%" height="100%">
+                    </div>
+                    <div class="col-md-6">
+                        <h5 style="color: #29b6f6;">Déscription</h5>
+                        <p>ISTM est une école supérieure de santé à Kisangani.</p>
+                        <h5 style="color: #29b6f6; margin-top: 25px;">Parténariat</h5>
+                            <p>
+                        Je m'occupe de toute l'infrastructure informatique de cette école.</p>
+                        
+                        <p><a href="#">Lien</a></p>
+                        
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <p data-dismiss="modal" class="btn btn-info">Annuler</p>
+                </div>
+            </div>
+        </div>
+    </div> 
     
         </section>
        
