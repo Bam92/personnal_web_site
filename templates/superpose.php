@@ -4,14 +4,14 @@
 <head>
     <?php include ("../includes/head-import.php"); ?>
     
-    <title>Abel Lifaefi Mbula | Portfolio: NTEB</title>
+    <title>Abel Lifaefi Mbula | Portfolio: SuperPose</title>
 
     
 </head>
 
 <body>
     <?php include ("../includes/menus-other.php"); ?>
-    <header class="jumbotron" style="padding-top: 100px;">
+    <header class="jumbotron" style="padding-top: 100px;" id="superpose-bg">
         <div class="container">
             <div class="row row-header">
                 <div class="col-md-4">

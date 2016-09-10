@@ -11,7 +11,7 @@
 
 <body>
     <?php include ("../includes/menus-other.php"); ?>
-    <header class="jumbotron" style="padding-top: 100px;">
+    <header class="jumbotron" style="padding-top: 100px;" id="nteb-bg">
         <div class="container">
             <div class="row row-header">
                 <div class="col-md-4">

@@ -31,6 +31,22 @@ body {
     padding-bottom: 20px;
 }
 
+/*Background for project*/
+#confusion-bg {
+    background-image: url(../img/project/restaurant.png);
+}
+#csb-bg {
+    background-image: url(../img/project/csb.png);
+}
+#nteb-bg {
+    background-image: url(../img/project/nteb.png);
+}
+#superpose-bg {
+    background-image: url(../img/project/pool.png);
+}
+#architect-bg {
+    background-image: url(../img/project/architect.jpg);
+}
 .container-fluid .jumbotron {
     margin-right: 0px;
     margin-left: auto;
