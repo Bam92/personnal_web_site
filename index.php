@@ -92,7 +92,7 @@
                 </div>
                 
             </div>
-            <div class="text-center section-end"><button id="myButton"> <a href="about.html" class="more">En savoir plus</a></button></div><!--Link to about.html-->
+            <div class="text-center section-end"> <a href="about.php" class="more"><button id="myButton">En savoir plus</button></a></div><!--Link to about.html-->
         </section>
         
         <section id="project" class="section">
@@ -129,7 +129,7 @@
                  <div class="col-md-offset-1 col-md-6"><img src="img/project/afac.JPG" alt="afac" width="100%" height="80%" style="margin-bottom:40px;"></div>
             </div>
             
-            <div class="text-center section-end"> <button id="myButton"> <a href="templates/about.php" class="more">En savoir plus</a></button></div><!--Link to about.html-->
+            <div class="text-center section-end"> <a href="templates/about.php" class="more"><button id="myButton">En savoir plus</button></a></div><!--Link to about.html-->
         </section>
 
         <section id="say" class="section">
