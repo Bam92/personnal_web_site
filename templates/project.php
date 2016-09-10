@@ -41,7 +41,7 @@
                 </div>
 			</div>
             </div>
-            <div class="jumbotron" style="margin-right: 0;">
+            <div class="jumbotron" style="margin-right: 0;" id="confusion-bg">
             <div class="container">
                 
                     <div class="row">
@@ -168,11 +168,11 @@
                         
                     </div>
 
-                    <div class="col-md-2" data-toggle="modal" data-target="#unikis" data-backdrop="false"> <img alt="" src="../img/project/DSC00797.JPG"  width="100%" height="100%">
+                    <div class="col-md-2" data-toggle="modal" data-target="#unikis" data-backdrop="false"> <img alt="" src="../img/parternaires/logo-unikis.jpg"  width="100%">
                         
                     </div>
-            <div class="col-md-2" data-toggle="modal" data-target="#inpp" data-backdrop="false"> <img alt="" src="../img/project/confusion.PNG" width="100%" height="100%"></div>
-                    <div class="col-md-2" data-toggle="modal" data-target="#csb" data-backdrop="false"> <img alt="" src="../img/project/afac.JPG"  width="100%" height="100%">
+            <div class="col-md-2" data-toggle="modal" data-target="#inpp" data-backdrop="false"> <img alt="" src="../img/parternaires/logo-inpp.jpg" width="100%" height="100%"></div>
+                    <div class="col-md-2" data-toggle="modal" data-target="#csb" data-backdrop="false"> <img alt="" src="../img/parternaires/logo-csb.jpg"  width="100%" height="100%">
                        
                     </div>
                     <div class="col-md-2" data-toggle="modal" data-target="#istm" data-backdrop="false"> <img alt="istm" src="../img/parternaires/logo-istm.png" width="100%" height="100%"></div>
@@ -220,7 +220,7 @@
                             <h4 class="modal-title text-center">UNIKIS <small>(Université de Kisangani)</small></h4>
                         </div>
                 <div class="modal-body">
-                    <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
+                    <div class="col-md-6"><img src="../img/parternaires/batiment-unikis.jpg" alt="" width="100%" height="100%">
                     </div>
                     <div class="col-md-6">
                         <h5 style="color: #29b6f6;">Déscription</h5>
@@ -282,7 +282,7 @@
                             <h4 class="modal-title text-center">CSB <small>(Centre de surveillance de la biodivesité)</small></h4>
                         </div>
                 <div class="modal-body">
-                    <div class="col-md-6"><img src="../img/project/DSC00793.JPG" alt="" width="100%" height="100%">
+                    <div class="col-md-6"><img src="../img/parternaires/batiment-csb.jpg" alt="" width="100%" height="100%">
                     </div>
                     <div class="col-md-6">
                         <h5 style="color: #29b6f6;">Déscription</h5>

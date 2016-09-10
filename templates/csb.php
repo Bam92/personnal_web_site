@@ -80,6 +80,7 @@
             </div>
         </section>
     </div>
+    <?php include ("../includes/project-footer.php"); ?>
 <?php include ("../includes/footer.php"); ?>
     
     <!-- jQuery -->
