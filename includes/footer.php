@@ -14,7 +14,7 @@
                     <a href="#" class="col-xs-6">
                         <img alt="pdf" src="#">
                         <h4>Pdf</h4></a>
-                    <p>Lorem ispum door</p>
+                    
                 </div>
                 <div class="modal-footer">
                     <p data-dismiss="modal" class="btn btn-info">Annuler</p>
@@ -29,7 +29,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-xs-12 col-sm-6">
                         <h3 class="footer-title">Restons connecté</h3>
                         <p>Et si vous vouliez m'insulter ou me dire simplement bonjour?
                             <br /> Je suis sympa, n'hesitez pas :)</p>
@@ -48,7 +48,7 @@
                             
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-xs-12 col-sm-6">
                         <h3 id="contact" class="footer-title">Contact</h3>
                             
                             <div><span class ="glyphicon
@@ -62,7 +62,7 @@
 
                     </div>
                     
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-xs-12 col-sm-6">
                         <h3 class="footer-title">Statut</h3>
                         <p>A la recherche d'un télétravail sur le metier passionnant du web
                             <br /> Voir mon <a data-toggle="modal" data-target="#view-cv">CV</a></p>
@@ -73,7 +73,7 @@
         </div>
         <div class="container-fluid" id="copyright">
             <div class="container">
-                <p>© Abel Lifaefi Mbula 2016 - Tous droits reservés</p>
+                <p class="col-xs-12">© Abel Lifaefi Mbula 2016 - Tous droits reservés</p>
             </div>
         </div>
     </footer>

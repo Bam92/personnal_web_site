@@ -261,3 +261,27 @@ footer a {
     top: .7rem;
     font-size: 5em;
 }*/
+
+/*Media query*/
+@media screen and (min-width: 768px) and (max-width: 992px) { /*Tablette*/
+    .jumbotron img {
+        width: 200px;
+        height: 200px;
+        
+    }
+    .jumbotron {
+        font-size: 1.1em;
+    }
+}
+@media screen and (max-width: 768px) { /*Smartphone*/
+    .jumbotron img {
+        width: 150px;
+        height: 150px;
+        
+        
+    }
+    .jumbotron {
+        font-size: 1.1em;
+        text-align: center;
+    }
+}

@@ -9,13 +9,13 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#"><img src="img/logo.png" height=30 width=41></a>
+                    <a class="navbar-brand" href="#"><img src="img/logo.png" height="30" width="41"></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#"><span class="glyphicon glyphicon-home"
                          aria-hidden="true"></span>Home</a></li>
-                        <li><a href="aboutus.html"><span class="glyphicon glyphicon-info-sign" >About</a></li>
+                        <li><a href="aboutus.php"><span class="glyphicon glyphicon-info-sign" >About</span></a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"
                              role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-list-alt"></span>
@@ -31,7 +31,7 @@
                                 <li><a href="#">Weekend Brunch</a></li>
                             </ul>
                         </li>
-                        <li><a href="contactus.html"><span class="active fa fa-envelope-o"></span>Contact</a></li>
+                        <li><a href="contactus.php"><span class="active fa fa-envelope-o"></span>Contact</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a data-toggle="modal" data-target="#loginModal">

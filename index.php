@@ -31,12 +31,12 @@
     <header class="jumbotron">
         <div class="container">
             <div class="row row-header">
-                <div class="col-md-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
+                <div class="col-xs-12 col-md-4 col-sm-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
                     <h3 class="text-center">Abel Lifaefi Mbula</h3>
                     <h4 class="text-center">Développeur Full Stack et Formateur
                     </h4>
                 </div>
-                <div class="col-xs-12 col-md-8">
+                <div class="col-xs-12 col-md-8 col-sm-8">
                     <h1>Bienvenue chez moi!</h1>
                    
                     <p>Je travaille dans le monde merveilleux de l'<abbr title="informatique">IT</abbr> depuis 6 années déjà. </p>
@@ -64,27 +64,27 @@
                 </div>
 			</div>
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="text-center" style="color:#ff9800">
                     <span class ="glyphicon
                         glyphicon-education text-center" style="size:2em;"></span><h3>Formation, conférence</h3></div>
                    
                     <p>En moyenne 10 personnes sont formees et 1 conference ou aterlier anime chaque mois</p><p> Je traite de la bureautique, d'Android, de <abbr title="WordPress">WP</abbr> et de la programmation web.</p>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="text-center" style="color:#ff9800"><span class ="glyphicon
                         glyphicon-user"></span><h3>Conseil</h3></div>
                     <p>Ma longue expérience dans l'ingénierie informatique me permet d'exercer le métier de <strong>consultant IT</strong></p>
                     <p>Mes conseils portent sur le choix de l'<abbr title="Systeme d'exploitation">OS</abbr>, d'un <abbr title="Systeme de gestion des bases de donnees">SGBD</abbr>, de l'hébergment web... </p>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="text-center" style="color:#ff9800"><span class ="glyphicon
                         glyphicon-usd text-center"></span><h3>Freelance</h3></div>
                     
                     <p>Je travaille actuellement sur différentes msissions web en freelance et entreprends de monter une <abbr title="Société de service et d'ingénieurie informatique">SS2I</abbr> très prochainement</p>
                     <p>Mon tarif horaire moyen s'élève à <strong>12,5 €</strong></p>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="text-center" style="color:#ff9800"><span class ="glyphicon
                         glyphicon-comment"></span ><br> <h3>Communauté</h3></div>
                     <p>Je suis actif dans plusieurs grands forums informatiques où je passe en moyenne 2 à 3 heures/semaine: <a href="https://www.openclassrooms.com">OpenClassrooms</a>, <a href="https://www.developpez.com">Developpez.com</a>, <a href="https://www.coursera.org">Coursera</a>, ...</p>

@@ -21,8 +21,8 @@
                         <li><span aria-hidden="true">#</span>développement</li>
 
                     </ul>
-                    <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
-                    <p><a href="#" class="more">Voir le site</a></p>
+                    <p class="text-center"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
+                    <p class="text-center"><a href="../xp/conFusion/index.php" class="more"><button id="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
             </div>
@@ -57,6 +57,7 @@
                     <h3>Technologies utilisées</h3>
                     <span class="badge">HTML</span>
                     <span class="badge">CSS</span>
+                    <span class="badge">Bower</span>
                     <span class="badge">Bootstrap</span>
                     <span class="badge">JS</span>
                     <span class="badge">jQuery</span>

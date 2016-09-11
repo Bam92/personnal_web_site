@@ -63,17 +63,27 @@
             
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4" style="background-image: ;">
-                    <h3>CSB</h3></div>
-                    <div class="col-md-4" style="background-image: ;">
-                    <h3>NTEB</h3></div>
-                    <div class="col-md-4" style="background-image: ;">
-                    <h3>Abel</h3></div>
-                    <div class="col-md-4" style="background-image: ;">
-                    <h3>La maison d'architecte</h3></div>
-                    <div class="col-md-4" style="background-image: ;">
+                    <div class="col-md-4" id="csb-bg">
+                    <h3>CSB</h3>
+                    Lore; rjeknrkn</div>
+                    <div class="col-md-4" id="nteb-bg">
+                        <h3>NTEB</h3>
+                        Lore;'
+                    </div>
+                    <div class="col-md-4" id="me-bg">
+                        <h3>Abel</h3>
+                        Lore;j 
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-4" id="architect-bg">
+                        <h3>La maison d'architecte</h3>
+                        Lore;
+                    </div>
+                    <div class="col-md-4" id="superpose-bg">
                     <h3>Superpose</h3></div>
-                    <div class="col-md-4" style="background-image: ;"></div>
+                    <div class="col-md-4" id=""></div>
                 </div>
             </div>
         </section>
