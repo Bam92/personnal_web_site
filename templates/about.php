@@ -121,7 +121,7 @@
                         <div class="col-xs-12 col-md-4" id="ordinateur">
                             <div> <img class="img-circle img-center" src="../img/computer.png" alt="Ordinateur"></div>
                             <h4 class="text-center" style="color:#ff9800">Ordinateur</h4>
-                    <p>Nous sommees en 2008, toute aventure commence quelque part... et c'est par là que commence mon long périple: notions de base de l'informatique, architecture d'ordinateurs, OS, sécurité, dépanage, consifurations systèmes et administration réseau</p>
+                    <p>Nous sommes en 2008, toute aventure commence quelque part... et c'est par là que commence mon long périple: notions de base de l'informatique, architecture d'ordinateurs, OS, sécurité, dépanage, consigurations systèmes et administration réseau</p>
                     <p>Et très vite j'ai aimé ce domaine</p>
                         </div>
                         
@@ -251,7 +251,7 @@
                                 <h3>Chef de projet</h3>
                                 <p>Gérer des projets web de grande envergure demande une certaine compétence et une très longue expérience. Il y a fort à parier que je sois déjà dans la voie d'y parvenir. Monter une SSII ou une startup est donc une voie légale pour moi afin de travailler sur des missions sans précédents (serais-je peut-être le premier à bâtir une interface web la plus perfromante, la plus avancée et la plus facile à utiliser par l'utilisateur?)</p>
                                 
-                                <h3>Enseignant-chercheur en ingénierie informatique</h3>
+                                <h3>Enseignant-chercheur en informatique</h3>
                                 <p>Pourquoi ne pas tout abandonner et s'occuper uniquement du métier de partage de connaissance et de la recherche? C'est peut-être le dernier défis à relever</p>
                             </div>
                         </div>

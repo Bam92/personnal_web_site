@@ -78,7 +78,7 @@ h2 {
     background-color: #29b6f6 !important;
 }
 
-.navbar-header a:hover, .nav a:hover {
+.navbar-header a:hover, .navbar a:hover {
     border-top: 2px solid #ff9800;
     color: #ff9800;
 }
@@ -86,7 +86,7 @@ h2 {
 .navbar-default .navbar-nav > li > a {
     color: #fff;
 }
-.navbar-header a:active, .nav a:active {
+.navbar-header a:focus, .nav a:focus {
     border-top: 3px solid #ff9800;
     color: #ff9800;
 }
