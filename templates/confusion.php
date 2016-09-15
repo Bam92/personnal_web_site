@@ -38,22 +38,17 @@
                         <div class="col-md-offset-1 col-md-5"><img src="../img/project/logo-confusion.png" alt="logo" /></div>
                     </div>
                     <div class="row">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        <p>con Fusion est un restaurant indien qui propose une cuisine totalement inédite en proposant des menus faits de la combinaison de la cuisine indienne et chinoise.</p>
+                        
                     </div>
                 </div>
                 <div class="col-md-offset-1 col-xs-12 col-md-6">
                     <h2>Le Projet</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                    <p>Mon client m'a contacté pour lui proposer un site dont l'objectif sera de permettre à ses clients de faire des reservations depuis Internet. Son second objectif était de pouvoir convertir de nouveaux prospects en clients.</p>
+                     
+                    <h3>Le travail réalisé</h3>
+                     <p>Ce projet a été mené de A à Z. Après constitution du cachier des charges et proposition de la maquette, j'ai commencé l'intégration du site en HTML5, CSS3 et Bootstrap. Les interactivités ont été réalisées en JS et jQuery; et le tout dynamisé avec PHP</p>
+                    
                     <h3>Technologies utilisées</h3>
                     <span class="badge">HTML</span>
                     <span class="badge">CSS</span>
@@ -75,7 +70,7 @@
                <h2 class="text-center">Le résultat</h2>
                 <div class="row">
 				<div class="col-xs-12 text-center section-intro">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                    <p>Pour ne rien vous cacher, voici l'interface du site </p>
                 </div>
 			</div>
                 <div class="row">

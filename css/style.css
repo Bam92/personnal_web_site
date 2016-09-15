@@ -78,10 +78,11 @@ h2 {
     background-color: #29b6f6 !important;
 }
 
-.navbar-header a:hover, .navbar a:hover {
+.navbar-header a:hover, .navbar a:hover, #myScrollspy:hover {
     border-top: 2px solid #ff9800;
     color: #ff9800;
 }
+
 
 .navbar-default .navbar-nav > li > a {
     color: #fff;
