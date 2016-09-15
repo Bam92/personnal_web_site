@@ -170,7 +170,7 @@ p a:hover, .more:hover {
     border: 1px solid #ff9800;
 }
 #myButton:hover {
-    background: #fff;
+    background: inherit;
     color: #ff9800;
     border-color: #fff;
     border-radius: 3px;
