@@ -41,7 +41,7 @@
                 </div>
 			</div>
             </div>
-            <div class="jumbotron" style="margin-right: 0;" id="confusion-bg">
+            <div class="jumbotron" id="confusion-bg">
             <div class="container">
                 
                     <div class="row">

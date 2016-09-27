@@ -94,44 +94,100 @@
             </div>
             <div class="text-center section-end"> <a href="templates/about.php" class="more"><button class="myButton">En savoir plus</button></a></div><!--Link to about.html-->
         </section>
-        
+       
+        <!-- Palmares-->
         <section id="project" class="section">
-            <h2 class="text-center">Extrait de mes projets...</h2>
+            <h2 class="text-center">Palmares</h2>
             
                 <div class="col-xs-12 text-center section-intro">
-                    <p>Retrouvez quelques-unes de mes réalisations, de l'enseignement aux projets web</p>
+                    <p>Sélection de quelques projets realisés pour mes clients</p>
+                    
+                </div>
+            <div class="container-fluid" id="confusion-bg">
+                <div class="container">
+                
+                    
+                        <div class="col-md-4">
+                            <h1>con Fusion</h1>
+                            <ul style="font-style: italic; display: inline-block;">
+                                <li><span aria-hidden="true">#</span>intégration</li>
+                                <li><span aria-hidden="true">#</span>développement</li>
+
+                            </ul>
+                            <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
+                            <p><a href="confusion.php" class="more"><button class="myButton text-center">En savoir plus</button></a></p>
+                        </div>
+                        <div class="col-md-8"><img src="img/project/confusion.PNG" width="100%"></div>
+                   
+                </div>
+                
+            </div>
+            
+            <!--<div class="text-center section-end"> <a href="templates/project.php" class="more"><button class="myButton">En savoir plus</button></a></div>Link to about.php-->
+        </section>
+        
+        <!-- Training and publication-->
+        <section id="training" class="section">
+            <h2 class="text-center">Fromations et publications</h2>
+            
+                <div class="col-xs-12 text-center section-intro">
+                    <p>Enseignant et auteur</p>
                     
                 </div>
                 <div class="row">
-                <div class="col-md-6" style="margin-bottom:40px;"><img src="img/project/confusion.PNG" alt="confusion" height="400" width="650"></div>
-                <div class="col-md-offset-1 col-md-5" style="margin-bottom:40px;">
+                <div class="col-xs-12 col-md-6">
+                    <h3>Formations</h3>
                     <div>
-                        <p><strong class="col-md-3">Mission</strong> : <span style="border-bottom:2px dotted orange;">Conception site web</span></p>
-                        <p><strong class="col-md-3">Client</strong> : <span style="border-bottom:2px dotted orange;">ConFusion</span></p>
-                        <p><strong class="col-md-3">Technologies</strong> : <span style="border-bottom:2px dotted orange;">HTML5, CSS3, JS, PHP5, Bootstrap, jQuery</span></p>
-                        <h4>Commentaires</h4>
-                        <p><strong>ConFusion</strong> est un restaurant indien qui souhaitait avoir une présence sur la toile afin de permettre aux clients de voir ce qu'il fait et de pouvoir faire des reservation. La contrainte technique était que le site devrait être adapté à tous les médias (donc responsive)</p>
-                        <p>Après plusieures heures de concertation pour l'élaboration du cahier des charges, je suis parvenu à produire un site fonctionnel et adapté à toutes les résolutions d'écran; à la grande satisfaction de mon client</p>
-                        <p>Visiter le <a href="#">site</a></p>
+                        Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
+                    Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnknLorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje
+                    </div>
+                    <figure>
+                        <img src="img/project/afac.JPG" width="100%">
+                        <figcaption>En pleine formation avec les femmes de la société civile et deputées provinciales, Kisangani dec. 2013</figcaption>
+                    </figure>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <h3>Publications</h3>
+                    <p>Je me mets a l'ecriture pour des generations futures</p>
+                    <div class="row">
+                    <div class="col-md-3"><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1"><img src="img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
+                    <div class="col-md-3" style="border: 2px solid red;">
+                        <h4>Potégez l'ensemble de vos données sur votre ordinateur</h4>
+                        <p>Disponible sur la plateforme <a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">OpenClassrooms</a></p>
+                    </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-5">
-                    <div>
-                        <p><strong class="col-md-3">Mission</strong> : <span style="border-bottom:2px dotted orange;">Foramation du personnel</span></p>
-                        <p><strong class="col-md-3">Client</strong> : <span style="border-bottom:2px dotted orange;"><abbr title="Association des femmes d'affaire du Congo">AFAC</abbr></span></p>
-                        <p><strong class="col-md-3">Technologies</strong> : <span style="border-bottom:2px dotted orange;">Microsoft Office</span></p>
-                        <h4>Commentaires</h4>
-                        <p>AFAC est une association des femmes d'affaire du Congo (Kinshasa). Dans le cadre de la promotion des TIC au près de le femme congolaise, j'ai été heureux de pouvoir gagner ce marché afin de former les femmes de la société civile et députées provinciales à Kisangani</p>
-                    </div>
-                </div>
-                 <div class="col-md-offset-1 col-md-6"><img src="img/project/afac.JPG" alt="afac" width="100%" height="80%" style="margin-bottom:40px;"></div>
-            </div>
-            
+                        
             <div class="text-center section-end"> <a href="templates/about.php" class="more"><button class="myButton">En savoir plus</button></a></div><!--Link to about.php-->
         </section>
-
+        
+        <!-- Engagements-->
+        <section id="training" class="section">
+            <h2 class="text-center">Mes engagements</h2>
+            
+                <div class="col-xs-12 text-center section-intro">
+                    <p>Lorem ipsom</p>
+                    
+                </div>
+                <div class="row">
+                <div class="col-xs-12 col-md-12">
+                   
+                    <div class="col-md-4" id="mooc">
+                       <img src="img/pub-protection-donnees-perso.PNG">
+                    </div>
+                    <div class="col-md-4" id="free">
+                       <img src="img/pub-protection-donnees-perso.PNG">
+                    </div>
+                    <div class="col-md-4" id="internet"><!--Voir manifeste mozilla-->
+                       <img src="img/pub-protection-donnees-perso.PNG">
+                    </div>
+                </div>
+                
+                </div>
+                        
+        </section>
+        <!-- What they say about me-->
         <section id="say" class="section">
             <h2 class="text-center">Ce qu'ils disent de moi...</h2>
             <div class="row">
@@ -180,31 +236,8 @@
             </div>
             <!--<div class="text-center section-end"> <a href="testimony.html" class="more">En savoir plus...</a></div>Link to testimony.html-->
         </section>
-       <!-- <section id="blog" class="section">
-            <h2 class="text-center">Sur le blog et les réseaux sociaux...</h2>
-            <div class="row">
-				<div class="col-md-12 text-center section-intro">
-                    <p>J'anime un web blogue qui constitue mon pense-bête informatique. Je tweete, je poste mais je ne fais pas de selfie</p>
-                    
-                </div>
-                
-                <div class="col-md-6">
-                    <h4>Derniers tweets</h4>
-                    
-                    <a class="twitter-timeline" href="https://twitter.com/abelmbula"></a> 
-                    
-                </div>
-                <div class="col-md-6">
-                    <h4>Derniers billets</h4>
-                    <ul>
-                        <li>Lorem</li>
-                        <li>Lorem</li>
-                        <li>Lorem</li>
-                    </ul>
-                </div>
-			</div>
-         
-        </section>-->
+       
+        <?php include ("includes/project-footer.php"); ?>
     </div>
     
    <?php include ("includes/footer.php"); ?>
@@ -218,5 +251,4 @@
     <script src="js/bootstrap.js"></script><!--JS for Bootstrap in local-->
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
-
 </html>
