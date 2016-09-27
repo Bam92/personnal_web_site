@@ -62,19 +62,36 @@
             </div>
             
             <div class="container">
-                <div class="row">
-                    <div class="col-md-4" id="csb-bg">
-                    <h3>CSB</h3>
-                    Lore; rjeknrkn</div>
-                    <div class="col-md-4" id="nteb-bg">
-                        <h3>NTEB</h3>
-                        Lore;'
-                    </div>
-                    <div class="col-md-4" id="me-bg">
-                        <h3>Abel</h3>
-                        Lore;j 
-                    </div>
-                </div>
+                
+                    <div class="row">
+                        <a href="csb.php">
+                        <div class="col-md-4" id="csb-bg">
+                            <img alt="" src="../img/project/csb.png" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">CSB</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        integration</li>
+                                    <li><span aria-hidden="true">#</span>
+                                        developpement</li>
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                            </div>
+                            </a>
+                        
+                     
+                        <div class="col-md-4" id="nteb-bg">
+                            <h3>NTEB</h3>
+                            Lore;'
+                        </div>
+                        <div class="col-md-4" id="me-bg">
+                            <h3>Abel</h3>
+                            Lore;j 
+                        </div>
+                       </div> 
+                    
+               
                 <br>
                 <div class="row">
                     <div class="col-md-4" id="architect-bg">
@@ -356,6 +373,7 @@
     <!-- Javascript for Bootstrap -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="../js/bootstrap.min.js"></script><!--JS for Bootstrap in local-->
+    
 </body>
 
 </html>

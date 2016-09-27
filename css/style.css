@@ -31,7 +31,7 @@ body {
     padding-bottom: 20px;
 }
 
-/*Background for project*/
+/*Background for project
 #confusion-bg {
     background-image: url(../img/project/restaurant.png);
 }
@@ -46,7 +46,7 @@ body {
 }
 #architect-bg {
     background-image: url(../img/project/architect.jpg);
-}
+}*/
 .container-fluid .jumbotron {
     margin-right: 0px;
     margin-left: auto;
@@ -179,6 +179,42 @@ p a:hover, .more:hover {
 
 .badge {
     background: orange;
+}
+
+/* Project*/
+.achievement-infobox {
+    position: absolute;
+right: 0;
+bottom: 0;
+left: 0;
+z-index: 2;
+padding-top: .5rem;
+width: auto;
+top: 0;
+padding: 0 2rem;
+text-align: center;
+color: #fff;
+}
+
+.achievement-tag {
+    display: inline;
+    vertical-align: baseline;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.achievement-tag > li {
+    display: inline-block;
+    font-style: italic;
+}
+.achievement-txt {
+    opacity: 0;
+padding: 0;
+margin: 0;
+height: 1px;
+width: 1px;
+overflow: hidden;
+text-align: left;
 }
 
 /*footer*/
