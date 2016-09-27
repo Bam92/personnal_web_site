@@ -53,7 +53,7 @@
 
                             </ul>
                             <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
-                            <p><a href="confusion.php" class="more">En savoir plus...</a></p>
+                            <p><a href="confusion.php" class="more"><button class="myButton">En savoir plus</button></a></p>
                         </div>
                         <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
                     </div>

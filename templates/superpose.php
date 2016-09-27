@@ -22,7 +22,7 @@
 
                     </ul>
                     <p style="text-align: center;"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    <p><a href="#" class="more">Voir le site</a></p>
+                    <p><a href="#" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
             </div>

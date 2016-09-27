@@ -22,7 +22,7 @@
 
                     </ul>
                     <p class="text-center"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
-                    <p class="text-center"><a href="../xp/conFusion/index.php" class="more"><button id="myButton">Voir le site</button></a></p>
+                    <p class="text-center"><a href="../xp/conFusion/index.php" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
             </div>

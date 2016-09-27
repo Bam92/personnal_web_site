@@ -18,7 +18,7 @@
                             glyphicon-earphone" style="font-size:1.0em; padding-right: 5px;"></span><a href="tel:+243992097516"> 099-209-7516</a></div>
                             <div><span class ="glyphicon
                             glyphicon-envelope" style="font-size:1.0em; padding-right: 5px;"></span><a href="mailto:me@abelmbula.url.ph"> me[at]abelmbula[dot]url[dot]ph</a></div>
-                            <div><span class ="glyphicon glyphicon-map-marker" style="font-size:1.0em; padding-right: 5px;"></span><strong> Abel Lifaefi Mbula</strong><br> 286, Sotraco II, Minzoto, Mangobo, Kisangani (RDC)</div>
+                            <adress><span class ="glyphicon glyphicon-map-marker" style="font-size:1.0em; padding-right: 5px;"></span><strong> Abel Lifaefi Mbula</strong><br> 286, Sotraco II, Minzoto, Mangobo, Kisangani (RDC)</adress>
                             
                     </div>
                     <div class="col-md-offset-1 col-xs-12 col-md-6">
@@ -35,7 +35,7 @@
                                 <label for="message">Votre message, votre projet</label>
                                 <textarea id="message" type="textarea" class="form-control" rows="6">Je souhaite avoir un site web pour mon entreprise qui...</textarea>
                             </div>
-                            <button type="submit" id="myButton" class="pull-right">Envoyer</button><!-- add glyphicon -->
+                            <button type="submit" class="myButton pull-right">Envoyer</button><!-- add glyphicon -->
                         </form>
                     </div>
                 </div>

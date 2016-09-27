@@ -40,7 +40,7 @@
                     <h1>Bienvenue chez moi!</h1>
                    
                     <p>Je travaille dans le monde merveilleux de l'<abbr title="informatique">IT</abbr> depuis 6 années déjà. </p>
-                    <ul style="font-size: 1.3em;">
+                    <ul>
                         <li><strong>enseignement</strong>: informatique et web</li>
                         <li><strong>services</strong>: maintenance des parcs, conception des sites web...</li>
                         <li><strong>conseil: </strong>hébergement, BDD, ...</li>
@@ -92,7 +92,7 @@
                 </div>
                 
             </div>
-            <div class="text-center section-end"> <a href="about.php" class="more"><button id="myButton">En savoir plus</button></a></div><!--Link to about.html-->
+            <div class="text-center section-end"> <a href="templates/about.php" class="more"><button class="myButton">En savoir plus</button></a></div><!--Link to about.html-->
         </section>
         
         <section id="project" class="section">
@@ -129,7 +129,7 @@
                  <div class="col-md-offset-1 col-md-6"><img src="img/project/afac.JPG" alt="afac" width="100%" height="80%" style="margin-bottom:40px;"></div>
             </div>
             
-            <div class="text-center section-end"> <a href="templates/about.php" class="more"><button id="myButton">En savoir plus</button></a></div><!--Link to about.html-->
+            <div class="text-center section-end"> <a href="templates/about.php" class="more"><button class="myButton">En savoir plus</button></a></div><!--Link to about.php-->
         </section>
 
         <section id="say" class="section">
