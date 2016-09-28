@@ -104,7 +104,7 @@
                     
                 </div>
             <div class="container-fluid" id="confusion-bg">
-                <div class="container">
+                
                 
                     
                         <div class="col-md-4">
@@ -115,11 +115,11 @@
 
                             </ul>
                             <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
-                            <p><a href="confusion.php" class="more"><button class="myButton text-center">En savoir plus</button></a></p>
+                            <p><a href="templates/confusion.php" class="more"><button class="myButton text-center">En savoir plus</button></a></p>
                         </div>
                         <div class="col-md-8"><img src="img/project/confusion.PNG" width="100%"></div>
                    
-                </div>
+               
                 
             </div>
             
