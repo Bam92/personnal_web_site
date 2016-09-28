@@ -131,7 +131,7 @@
             <h2 class="text-center">Fromations et publications</h2>
             
                 <div class="col-xs-12 text-center section-intro">
-                    <p>Enseignant et auteur</p>
+                    <p>Partager la connaissance, c'est un défi pour moi!</p>
                     
                 </div>
                 <div class="row">
@@ -140,10 +140,10 @@
                     <div>
                         Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
                     Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnknLorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje
-                    </div>
+                    </div><br>
                     <figure>
                         <img src="img/project/afac.JPG" width="100%">
-                        <figcaption>En pleine formation avec les femmes de la société civile et deputées provinciales, Kisangani dec. 2013</figcaption>
+                        <figcaption>En pleine formation avec les femmes de la société civile et deputées provinciales, Kisangani décembre 2013</figcaption>
                     </figure>
                 </div>
                 <div class="col-xs-12 col-md-6">
@@ -173,13 +173,16 @@
                 <div class="row">
                 <div class="col-xs-12 col-md-12">
                    
-                    <div class="col-md-4" id="mooc">
+                    <div class="col-md-3" id="mooc">
                        <img src="img/pub-protection-donnees-perso.PNG">
                     </div>
-                    <div class="col-md-4" id="free">
+                    <div class="col-md-3" id="free">
                        <img src="img/pub-protection-donnees-perso.PNG">
                     </div>
-                    <div class="col-md-4" id="internet"><!--Voir manifeste mozilla-->
+                    <div class="col-md-3" id="internet"><!--Voir manifeste mozilla-->
+                       <img src="img/pub-protection-donnees-perso.PNG">
+                    </div>
+                    <div class="col-md-3" id="security"><!--Voir manifeste mozilla-->
                        <img src="img/pub-protection-donnees-perso.PNG">
                     </div>
                 </div>
