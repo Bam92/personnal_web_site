@@ -148,7 +148,7 @@
         </section>-->
         <div class="container">
         <section id="partenaire" class="section">
-            <h2 class="text-center">Mes partenaires...</h2>
+            <!--<h2 class="text-center">Mes partenaires...</h2>
             <div class="row">
 				<div class="col-md-12 text-center section-intro">
                     <p>Ci-dessous quelques-unes de mes références.
@@ -158,7 +158,7 @@
 			</div>
             <div class="row">
                 
-            </div>
+            </div>-->
             <!-- Carousel
             =====================================
             <div class="col-md-4">
@@ -189,7 +189,7 @@
                 <a class="right carousel-control" href="#carousel" data-slide="next"><span class="icon-next"></span></a>
               </div>
             </div>
-            </div>-->
+            </div>
             
             <div class="col-md-2" data-toggle="modal" data-target="#nteb" data-backdrop="false"> <img alt="" src="../img/parternaires/logonteb.jpg"  width="100%" height="100%">
                         
@@ -202,7 +202,7 @@
                     <div class="col-md-2" data-toggle="modal" data-target="#csb" data-backdrop="false"> <img alt="" src="../img/parternaires/logo-csb.jpg"  width="100%" height="100%">
                        
                     </div>
-                    <div class="col-md-2" data-toggle="modal" data-target="#istm" data-backdrop="false"> <img alt="istm" src="../img/parternaires/logo-istm.png" width="100%" height="100%"></div>
+                    <div class="col-md-2" data-toggle="modal" data-target="#istm" data-backdrop="false"> <img alt="istm" src="../img/parternaires/logo-istm.png" width="100%" height="100%"></div>-->
          
             
             <!-- Modal
@@ -362,6 +362,7 @@
     
         </section>
        </div>
+        <?php include ("../includes/project-footer.php"); ?>
     </div>
     
    <?php include ("../includes/footer.php"); ?>
