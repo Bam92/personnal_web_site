@@ -96,16 +96,15 @@
         </section>
        
         <!-- Palmares-->
-        <section id="project" class="section">
+        <div class="container-fluid">
+        <section id="project" class="section container">
             <h2 class="text-center">Palmares</h2>
             
                 <div class="col-xs-12 text-center section-intro">
                     <p>Sélection de quelques projets realisés pour mes clients</p>
                     
                 </div>
-            <div class="container-fluid" id="confusion-bg">
-                
-                
+            <div id="confusion-bg">
                     
                         <div class="col-md-4">
                             <h1>con Fusion</h1>
@@ -123,9 +122,8 @@
                 
             </div>
             
-            <!--<div class="text-center section-end"> <a href="templates/project.php" class="more"><button class="myButton">En savoir plus</button></a></div>Link to about.php-->
         </section>
-        
+        </div>
         <!-- Training and publication-->
         <section id="training" class="section">
             <h2 class="text-center">Fromations et publications</h2>
@@ -135,26 +133,39 @@
                     
                 </div>
                 <div class="row">
-                <div class="col-xs-12 col-md-6">
-                    <h3>Formations</h3>
-                    <div>
-                        Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
-                    Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnknLorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje
-                    </div><br>
-                    <figure>
+                <div class="col-xs-12 col-md-12">
+                    <h3 class="text-center">Formations</h3><br>
+                    <div class="col-md-5 col-md-push-7">
+                        Je suis un enseignant d'informatique depuis plusiuers années. Je suis un Authorized ICDL Tester. <br><br>Mes domaines de prédilections: <br><br>
+                        <ul>
+                            <li>les <span class="badge">fondamentaux</span> de l'ordinateur,</li>
+                            <li>la <span class="badge">programmation web</span>, </li>
+                            <li>la <span class="badge">maintenance</span> et le <span class="badge">dépannage</span> d'ordinateurs,</li>
+                            <li>etc.</li>
+                        </ul>
+                    </div>
+                    <figure class="col-md-7 col-md-pull-5">
                         <img src="img/project/afac.JPG" width="100%">
                         <figcaption>En pleine formation avec les femmes de la société civile et deputées provinciales, Kisangani décembre 2013</figcaption>
                     </figure>
                 </div>
-                <div class="col-xs-12 col-md-6">
-                    <h3>Publications</h3>
-                    <p>Je me mets a l'ecriture pour des generations futures</p>
-                    <div class="row">
+                </div>
+                <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    <h3 class="text-center">Publications</h3><br>
+                    <p class="text-center">Je me mets a l'ecriture pour des generations futures</p><br>
+                    
                     <div class="col-md-3"><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1"><img src="img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
-                    <div class="col-md-3" style="border: 2px solid red;">
+                    <div class="col-md-3">
+                        <h4>Potégez l'ensemble de vos données sur votre ordinateur</h4>
+                        <p>Ceci est un MOOC publié sur la plateforme <a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">OpenClassrooms</a> 1 500+ étudiants</p>
+                    
+                    </div>
+                    <div class="col-md-3"><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1"><img src="img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
+                    <div class="col-md-3">
                         <h4>Potégez l'ensemble de vos données sur votre ordinateur</h4>
                         <p>Disponible sur la plateforme <a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">OpenClassrooms</a></p>
-                    </div>
+                    
                     </div>
                 </div>
             </div>
