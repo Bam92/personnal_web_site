@@ -35,10 +35,10 @@
                 <div class="col-xs-12 col-md-5">
                     <div class="row">
                         <div class="col-md-6"><h2>Le Client</h2></div>
-                        <div class="col-md-offset-1 col-md-5"><img src="../img/project/logo-confusion.png" alt="logo" /></div>
+                        <!--<div class="col-md-offset-1 col-md-5"><img src="../img/project/logo-confusion.png" alt="logo" /></div>-->
                     </div>
                     <div class="row">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        <p>Le <a href="centredesureveillance.com">CSB</a>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -75,11 +75,28 @@
                 </div>
 			</div>
                 <div class="row">
-                    <img src="../img/project/confusion.PNG" alt="confusion"><!-- put an img showing what i did (desktop, tablette, mobi)-->
+                    <img src="../img/project/csb-dashboard.PNG" alt="csb" width="100%">
                 </div>
             </div>
         </section>
     </div>
+    
+    <!-- Think
+    ========================================================-->
+    <div class="container-fluid project-item">
+        <section class="row section">
+            <div class="container">
+               <h2 class="text-center">Ce que pense le client</h2>
+                <div class="row">
+				<p>Au si tôt que j'ai appris à mon client que son interface d'administration était maintenant accessible, il était ébloui.</p>
+                   <p> Et voici sa réaction</p>
+                    <q>Qu'avez-vous fait, s'il vous plait? Il n'y a plus rien que je puisse vous demander. Tout marche à merveille. Merci!</q>
+			</div>
+                
+            </div>
+        </section>
+    </div>
+    
     <?php include ("../includes/project-footer.php"); ?>
 <?php include ("../includes/footer.php"); ?>
     
