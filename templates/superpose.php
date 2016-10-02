@@ -16,12 +16,12 @@
             <div class="row row-header">
                 <div class="col-md-4">
                     <h1>SuperPose</h1>
-                    <ul style="font-style: italic; display: inline-block;">
+                    <ul style="font-style: italic; display: inline-block; color: white;">
                         <li><span aria-hidden="true">#</span>intégration</li>
                         <li><span aria-hidden="true">#</span>WordPress</li>
 
                     </ul>
-                    <p style="text-align: center;"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p style="text-align: center; color: white;"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     <p><a href="#" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
