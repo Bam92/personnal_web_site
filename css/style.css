@@ -1,10 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 class *="col" { margin-bottom : 20px ; } 
 img { width : 100 %; } 
 
 body {
     margin-top: 10px;
     margin: auto;
-    font-family: ubuntu;
+    font-family: Roboto, serif;
     font-size: 16px;
 } 
 
@@ -26,14 +27,18 @@ Style for jumbotron
 
 
 .jumbotron h1 {
-    font-size: 2.3em;
-    color: #29b6f6;}
+    font-size: 2.0em;
+    /*color: #29b6f6;*/
+    color: white;
+    padding-bottom: 60px;
+}
 
 .jumbotron {
-    padding-top: 60px;
+    padding-top: 100px;
     padding-bottom: 20px;
-    font-size: 1.1em;
-    background-color: rgba(15, 172, 240, 0.4);
+    font-size: 1.05em;
+    color: white;
+    background-color: rgba(20, 170, 240, 0.5);
 }
 
 /*=====================================================
@@ -54,8 +59,12 @@ Style for projects
 }
 #architect-bg {
     background-image: url(../img/project/architect.jpg);
+    color: black;
 }
-
+#architect-bg h1 {
+    
+    color: black;
+}
 /* Achievement*/
 .achievement-infobox {
     position: absolute;

@@ -22,7 +22,7 @@
 
                     </ul>
                     <p style="text-align: center;"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    <p><a href="#" class="more"><button class="myButton">Voir le site</button></a></p>
+                    <p><a href="http://www.centresurveillancebiodiversite.org" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
             </div>
@@ -86,7 +86,7 @@
     <div class="container-fluid project-item">
         <section class="row section">
             <div class="container">
-               <h2 class="text-center">Ce que pense le client</h2>
+               <h2 class="text-center">Ce que pense le client</h2><br>
                 <div class="row">
 				<p>Au si tôt que j'ai appris à mon client que son interface d'administration était maintenant accessible, il était ébloui.</p>
                    <p> Et voici sa réaction</p>
