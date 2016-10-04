@@ -126,7 +126,7 @@
         </div>
         <!-- Training and publication-->
         <section id="training" class="section">
-            <h2 class="text-center">Fromations et publications</h2>
+            <h2 class="text-center">Formations et publications</h2>
             
                 <div class="col-xs-12 text-center section-intro">
                     <p>Partager la connaissance, c'est un défi pour moi!</p>
