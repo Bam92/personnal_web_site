@@ -199,10 +199,10 @@
         </section>
         <!-- What they say about me-->
         <section id="say" class="section">
-            <h2 class="text-center">Ce qu'ils disent de moi...</h2>
+            <h2 class="text-center">Ils parlent de moi en bien</h2>
             <div class="row">
 				<div class="col-md-12 text-center section-intro">
-                    <p>J'aime ce que je fais, j'y mets du sérieux, j'ai des sourires aux lèvres et une petite dose d'humour...Mes clients, mes étudiants et mes collègues aiment ça et c'est donc tout naturellement qu'ils ne cessent de me recommander
+                    <p>Mon expertise n'est plus à démontrer. Voici ce qu'on dit de moi</p>
                     
                 </div>
 			</div>
