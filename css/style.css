@@ -30,7 +30,7 @@ Style for jumbotron
     font-size: 2.0em;
     /*color: #29b6f6;*/
     color: white;
-    padding-bottom: 60px;
+    padding-bottom: 50px;
 }
 
 .jumbotron {
@@ -41,6 +41,31 @@ Style for jumbotron
     background-color: rgba(20, 170, 240, 0.5);
 }
 
+/*=====================================================
+Home
+=====================================================*/
+#welcome {
+    /*height: 600px;*/
+    min-height: 600px;
+    max-height: 1000px;
+    font-weight: 100;
+     letter-spacing: 0;
+}
+#first-intro {
+    font-size: 3.855em;
+    
+    line-height: 1.16129em;
+    margin-bottom: 0.32258em;
+}
+#second-intro, #full-stack {
+    font-size: 2.125em;
+    
+    line-height: 1.17647em;
+    
+}
+#get-started {
+    margin-top: 0.32258em;
+}
 /*=====================================================
 Style for projects
 =====================================================*/
@@ -122,7 +147,7 @@ Style for header
 =====================================================*/
 
 .navbar {
-    color: #fff;
+    color: #0000;
     width: 100%;
     height: 64px;
     line-height: 64px;
@@ -130,7 +155,7 @@ Style for header
 }
 .navbar-default {
     
-    background-color: #29b6f6 !important;
+   /* background-color: #29b6f6 !important;*/
 }
 
 .navbar-header a:hover, .navbar a:hover, #myScrollspy:hover {

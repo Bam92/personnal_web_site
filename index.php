@@ -28,26 +28,22 @@
     
     <!-- Jumbotron
     ==============================================================-->
-    <header class="jumbotron">
+    <header class="jumbotron" id="welcome">
         <div class="container">
             <div class="row row-header">
-                <div class="col-xs-12 col-md-4 col-sm-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
+               <!-- <div class="col-xs-12 col-md-4 col-sm-4"><img src="img/abel-profil%202016.png" alt="profil" height="300" width="300">
                     <h3 class="text-center">Abel Lifaefi Mbula</h3>
                     <h4 class="text-center">Développeur Full Stack et Formateur
                     </h4>
-                </div>
-                <div class="col-xs-12 col-md-8 col-sm-8">
-                    <h1>Bienvenue chez moi!</h1>
-                   
-                    <p>Je travaille dans le monde merveilleux de l'<abbr title="informatique">IT</abbr> depuis 6 années déjà. </p>
-                    <ul>
-                        <li><strong>enseignement</strong>: informatique et web</li>
-                        <li><strong>services</strong>: maintenance des parcs, conception des sites web...</li>
-                        <li><strong>conseil: </strong>hébergement, BDD, ...</li>
-                    </ul>
-                    <p>
-                        Vous avez tout intérêt à confier vos projets informatiques à un <strong>professionnel! </strong>Non? :)
-                    </p>
+                </div>-->
+                <div class="col-xs-12 text-center">                    
+                   <div class ="welcome-note">
+                    <h1 id="first-intro" role="heading" aria-level="1">Professionnel d'informatique depuis +5 ans</h1>
+                    <p id="second-intro">ayant une expertise dans l'<strong>enseignant</strong>, le <strong>service</strong> et
+                       <strong>conseil</strong> en ingénierie informatique. Et depuis peu <strong>auteur</strong></p>
+                       <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
+                       <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p>
+                    </div>
                 </div>
             </div>
         </div>
