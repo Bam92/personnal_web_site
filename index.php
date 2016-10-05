@@ -134,9 +134,9 @@
                     <div class="col-md-5 col-md-push-7">
                         Je suis un enseignant d'informatique depuis plusiuers années. Je suis un Authorized ICDL Tester. <br><br>Mes domaines de prédilections: <br><br>
                         <ul>
-                            <li>les <span class="badge">fondamentaux</span> de l'ordinateur,</li>
-                            <li>la <span class="badge">programmation web</span>, </li>
-                            <li>la <span class="badge">maintenance</span> et le <span class="badge">dépannage</span> d'ordinateurs,</li>
+                            <li>les fondamentaux de l'ordinateur,</li>
+                            <li>la programmation web, </li>
+                            <li>la maintenance et le dépannage d'ordinateurs,</li>
                             <li>etc.</li>
                         </ul>
                     </div>

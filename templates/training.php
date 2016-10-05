@@ -23,7 +23,7 @@
                         
                         <blockquote>Démystifier les <abbr title="Technologies de l'information et de la communication">TIC</abbr> au près du grand public.</blockquote>
                          <p>Je suis donc convaincu que tout le monde peut se mettre à l'informatique et ce quel que soit son âge ou son niveau d'étude.</p>
-                <p>Je sais faire ce que les autres ne font pas: <br>
+                <p>J'ai une spécialité que j'aime bien: <br>
                 <strong>traduire le language</strong> des techiciens et ingénieurs en B.A-BA pour les novices</p>
                         <!--<p>N'hésitez pas à me <a data-toggle="modal" data-target="#training-form" data-backdrop="false">contacter</a> pour votre formation</p>-->
                <!-- Modal Form 'contact-me for your training'

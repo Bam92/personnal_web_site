@@ -22,7 +22,7 @@
 
                     </ul>
                     <p style="text-align: center;"> Tous les challenges de la maitenance d'un site avec un back-office inaccessible</p>
-                    <p><a href="http://www.centresurveillancebiodiversite.org" class="more"><button class="myButton">Voir le site</button></a></p>
+                    <p class="text-center"><a href="http://www.centresurveillancebiodiversite.org" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
             </div>
@@ -46,8 +46,10 @@
                 </div>
                 <div class="col-md-offset-1 col-xs-12 col-md-6">
                     <h2>Le Projet</h2>
-                    <p>Le webmestre de ce site a fait appel à mon expertis, par recommandation de l'un de mes anciens employeurs, lorsqu'il a sans le savoir modifier l'URL de son site web</p>
+                    <p>Le webmestre de ce site a fait appel à mon expertise, par recommandation de l'un de mes anciens employeurs, lorsqu'il a sans le savoir modifier l'URL de son site web</p>
                         <p>Frustré, pris de pannique; le seul secours ne pouvait que venir de moi, ainsi qu'on l'a dit depuis la Belgique d'où il venait d'un stage de création de site web avec WordPress </p>
+                    <p>Pour résoudre le problème, il fallu accéder par FTP à la racine du serveur du site. Et par la suite éditer le fichier <span style="font-weight: bold;">wp-config.php</span> <br>
+                    Enfin de prévenir ce problème pour l'avenir, j'ai du ajouter 2 ligne de code au début du fichier wp-config.php</p>
                     <h3>Technologies utilisées</h3>
                     <span class="badge">HTML</span>
                     <span class="badge">CSS</span>
