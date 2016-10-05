@@ -312,6 +312,7 @@ footer a {
     left: -2.8rem;
     top: -3.2rem;
     font-size: 5em;
+    height: 1px;
 }
 /*.think::after {
     content: "\201C";

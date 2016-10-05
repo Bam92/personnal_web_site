@@ -21,7 +21,7 @@
                         <li><span aria-hidden="true">#</span>développement</li>
 
                     </ul>
-                    <p style="text-align: center;"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p style="text-align: center;"> Tous les challenges de la maitenance d'un site avec un back-office inaccessible</p>
                     <p><a href="http://www.centresurveillancebiodiversite.org" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
@@ -38,22 +38,16 @@
                         <!--<div class="col-md-offset-1 col-md-5"><img src="../img/project/logo-confusion.png" alt="logo" /></div>-->
                     </div>
                     <div class="row">
-                        <p>Le <a href="centredesureveillance.com">CSB</a>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        <p>Le <a href="centredesureveillance.com"><abbr title="Centre de surveillance de la biodiversité">CSB</abbr></a> est le centre de référence sur la biodiversité dans le bassin du Congo.
 
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+      </p>
+                        <p>Offrir une infrastructure permanente qui facilite des actions et des retombés positives pour la biodiversité ainsi qu'exécuter une stratégie pour la sauvegarde et l’exploitation durable de la biodiversité dans le bassin du Congo sont ses principales missions </p>
                     </div>
                 </div>
                 <div class="col-md-offset-1 col-xs-12 col-md-6">
                     <h2>Le Projet</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                    <p>Le webmestre de ce site a fait appel à mon expertis, par recommandation de l'un de mes anciens employeurs, lorsqu'il a sans le savoir modifier l'URL de son site web</p>
+                        <p>Frustré, pris de pannique; le seul secours ne pouvait que venir de moi, ainsi qu'on l'a dit depuis la Belgique d'où il venait d'un stage de création de site web avec WordPress </p>
                     <h3>Technologies utilisées</h3>
                     <span class="badge">HTML</span>
                     <span class="badge">CSS</span>
@@ -86,7 +80,7 @@
     <div class="container-fluid project-item">
         <section class="row section">
             <div class="container">
-               <h2 class="text-center">Ce que pense le client</h2><br>
+               <h2 class="text-center">Que pense le client?</h2><br>
                 <div class="row">
 				<p>Au si tôt que j'ai appris à mon client que son interface d'administration était maintenant accessible, il était ébloui.</p>
                    <p> Et voici sa réaction</p>

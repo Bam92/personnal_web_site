@@ -69,7 +69,7 @@
                     <span class ="glyphicon
                         glyphicon-education text-center" style="size:2em;"></span><h3>Formation, conférence</h3></div>
                    
-                    <p>En moyenne 10 personnes sont formees et 1 conference ou aterlier anime chaque mois</p><p> Je traite de la bureautique, d'Android, de <abbr title="WordPress">WP</abbr> et de la programmation web.</p>
+                    <p>En moyenne 10 personnes sont formées et 1 conference ou aterlier animé chaque mois</p><p> Je parle de la bureautique, d'Android, de <abbr title="WordPress">WP</abbr> et de la programmation web.</p>
                 </div>
                 <div class="col-md-3 col-xs-12 col-sm-6">
                     <div class="text-center" style="color:#ff9800"><span class ="glyphicon
@@ -153,18 +153,18 @@
                 <div class="row">
                 <div class="col-xs-12 col-md-12">
                     <h3 class="text-center">Publications</h3><br>
-                    <p class="text-center">Je me mets a l'ecriture pour des generations futures</p><br>
+                    <p class="text-center">Je me mets a l'ecriture pour des générations futures</p><br>
                     
                     <div class="col-md-3"><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1"><img src="img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
                     <div class="col-md-3">
                         <h4>Potégez l'ensemble de vos données sur votre ordinateur</h4>
-                        <p>Ceci est un MOOC publié sur la plateforme <a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">OpenClassrooms</a> 1 500+ étudiants</p>
+                        <p>Il s'agit d'un MOOC publié sur la plateforme <a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">OpenClassrooms</a> 1 500+ étudiants</p>
                     
                     </div>
-                    <div class="col-md-3"><a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1"><img src="img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
+                    <div class="col-md-3"><a href="#"><img src="img/pub-protection-donnees-perso.PNG" alt="publication OC"></a></div>
                     <div class="col-md-3">
-                        <h4>Potégez l'ensemble de vos données sur votre ordinateur</h4>
-                        <p>Disponible sur la plateforme <a href="https://openclassrooms.com/courses/protegez-l-ensemble-de-vos-donnees-sur-votre-ordinateur-1">OpenClassrooms</a></p>
+                        <h4>Memento d'un technicien IT, Guide pratique</h4>
+                        <p>A paraitre chez <a href="#">Amazon</a></p>
                     
                     </div>
                 </div>

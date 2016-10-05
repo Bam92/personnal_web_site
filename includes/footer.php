@@ -41,8 +41,8 @@
                         <div id="social">
                             <a class="btn btn-primary" href="https://www.twitter.com/abelmbula" id="twitter"><i class="fa fa-twitter fa-2x"></i></a>
                             <a class="btn btn-primary" href="#"><i class="fa fa-facebook fa-2x"></i></a>
-                            <a class="btn btn-primary" href="#"><i class="fa fa-google-plus fa-2x"></i></a>
-                            <a class="btn btn-primary" href="#"><i class="fa fa-skype fa-2x"></i> </a>
+                            <!--<a class="btn btn-primary" href="#"><i class="fa fa-google-plus fa-2x"></i></a>-->
+                            <!--<a class="btn btn-primary" href="#"><i class="fa fa-skype fa-2x"></i> </a>-->
                             
                             <a class="btn btn-primary" href="https://github.com/Bam92"><i class="fa fa-github fa-2x"></i></a> 
                             
