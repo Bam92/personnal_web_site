@@ -50,6 +50,10 @@ Home
     max-height: 1000px;
     font-weight: 100;
      letter-spacing: 0;
+    background-image: url(../img/background-home.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
 }
 #first-intro {
     font-size: 3.855em;
