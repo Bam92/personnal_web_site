@@ -46,14 +46,16 @@
                 
                     <div class="row">
                         <div class="col-md-4">
-                            <h1>con Fusion</h1>
-                            <ul style="font-style: italic; display: inline-block;">
-                                <li><span aria-hidden="true">#</span>intégration</li>
-                                <li><span aria-hidden="true">#</span>développement</li>
+                            <h1 class="text-center">con Fusion</h1>
+                            <ul class="achievement-tag text-center">
+                                <li><span aria-hidden="true">#</span>
+                                    intégration</li>
+                                <li><span aria-hidden="true">#</span>
+                                    développement</li>
 
                             </ul>
                             <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
-                            <p><a href="confusion.php" class="more"><button class="myButton">En savoir plus</button></a></p>
+                            <p class="text-center"><a href="confusion.php" class="more"><button class="myButton">En savoir plus</button></a></p>
                         </div>
                         <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
                     </div>
@@ -66,9 +68,65 @@
                     <div class="row">
                         <a href="csb.php">
                         <div class="col-md-4" id="csb-bg">
-                            <img alt="" src="../img/project/csb.png" style="display: inline;">
+                            <img class="img-project-item" alt="" src="../img/project/csb-old.png" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title">CSB</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        intégration</li>
+                                    <li><span aria-hidden="true">#</span>
+                                        développement</li>
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                            </div>
+                            </a>                   
+                                          
+                                                    
+                                <div class="col-md-4" id="nteb-bg">
+                        <a href="nteb.php">
+                            <img class="img-project-item" alt="" src="../img/project/nteb.png" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">NTEB</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        intégration</li>
+                                    <li><span aria-hidden="true">#</span>
+                                        développement</li>
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                            </a> 
+                            </div>
+                                    
+                            
+                                                    
+                        <a href="bam.php">
+                        <div class="col-md-4" id="me-bg">
+                            <img class="img-project-item" alt="" src="../img/background-home.jpg" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">Abel</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        intégration</li>
+                                    <li><span aria-hidden="true">#</span>
+                                        développement</li>
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                            
+                        </div>
+                            </a>
+                       </div> 
+                    
+               
+                <br>
+                <div class="row">
+                    <a href="architect.php">
+                    <div class="col-md-4" id="architect-bg">
+                        <img class="img-project-item" alt="" src="../img/project/architect.jpg" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">La maison d'architecte</h3>
                                 <ul class="achievement-tag">
                                     <li><span aria-hidden="true">#</span>
                                         integration</li>
@@ -77,29 +135,25 @@
                                 </ul>
                                 <p class="achievement-txt">Lore; rjeknrkn</p>
                             </div>
-                            </div>
-                            </a>
                         
-                     
-                        <div class="col-md-4" id="nteb-bg">
-                            <h3>NTEB</h3>
-                            Lore;'
-                        </div>
-                        <div class="col-md-4" id="me-bg">
-                            <h3>Abel</h3>
-                            Lore;j 
-                        </div>
-                       </div> 
-                    
-               
-                <br>
-                <div class="row">
-                    <div class="col-md-4" id="architect-bg">
-                        <h3>La maison d'architecte</h3>
-                        Lore;
                     </div>
+                    </a>
+                    
+                    <a href="superpose.php">
                     <div class="col-md-4" id="superpose-bg">
-                    <h3>Superpose</h3></div>
+                        <img class="img-project-item" alt="" src="../img/project/piscine.jpg" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">SuperPose</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        integration</li>
+                                    <li><span aria-hidden="true">#</span>
+                                        developpement</li>
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                    </div>
+                    </a>
                     <div class="col-md-4" id=""></div>
                 </div>
             </div>
@@ -374,6 +428,16 @@
     <!-- Javascript for Bootstrap -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="../js/bootstrap.min.js"></script><!--JS for Bootstrap in local-->
+    <script src="../js/jquery.js"></script>
+    <script>
+        $(function () {
+            $(".img-project-item").mouseover (function () {
+                $(this).css("width", "500px");
+                $(this).css("height", "500px");
+            });
+        });
+         
+    </script>
     
 </body>
 

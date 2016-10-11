@@ -75,29 +75,49 @@ Home
 Style for projects
 =====================================================*/
 /*Background*/
-#confusion-bg {
-    background-image: url(../img/project/restaurant.png);
+.img-project-item {
+    height: 400px;
+    width: 100%;
 }
-#csb-bg {
-    background-image: url(../img/project/biodiversity.png);
-    background-repeat: no-repeat;
+a h3 {
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+#confusion-bg {
+   background-image: url(../img/project/restaurant.png);
+     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-#nteb-bg {
-    background-image: url(../img/project/nteb.png);
+#csb-bg:hover {
+   /* background-image: url(../img/project/biodiversity.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;*/
+    opacity: 0.3;
 }
-#superpose-bg {
-    background-image: url(../img/project/piscine.jpg);
+#nteb-bg:hover {
+   /* background-image: url(../img/project/nteb.png);*/
+    opacity: 0.3;
 }
-#architect-bg {
-    background-image: url(../img/project/architect.jpg);
-    color: black;
+#superpose-bg:hover {
+   /* background-image: url(../img/project/piscine.jpg);*/
+    opacity: 0.3;
+}
+#architect-bg:hover {
+   /* background-image: url(../img/project/architect.jpg);
+    color: black;*/
+    opacity: 0.3;
 }
 #architect-bg h1 {
     
     color: black;
 }
+#me-bg:hover{
+    opacity: 0.3;
+}
+
 /* Achievement*/
 .achievement-infobox {
     position: absolute;
@@ -111,6 +131,7 @@ top: 0;
 padding: 0 2rem;
 text-align: center;
 color: #fff;
+    /*opacity: 0.2;*/
 }
 
 .achievement-tag {
@@ -125,7 +146,7 @@ color: #fff;
     font-style: italic;
 }
 .achievement-txt {
-    opacity: 0;
+opacity: 0;
 padding: 0;
 margin: 0;
 height: 1px;
@@ -135,8 +156,8 @@ text-align: left;
 }
 
 .container-fluid .jumbotron {
-    margin-right: 0px;
-    margin-left: auto;
+    margin-right: -15px;
+    margin-left: -15px;
 }
 
 h1,h2,h3,h4,h5,h6 {
