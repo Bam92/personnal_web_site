@@ -43,6 +43,9 @@
                        <strong>conseil</strong> en ingénierie informatique. Et depuis peu <strong>auteur</strong></p>
                        <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
                        <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p>
+                       <div id="goDown" class="col-xs-offset-6">
+                           <i class="fa fa-angle-down"></i>
+                       </div>
                     </div>
                 </div>
             </div>
