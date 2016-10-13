@@ -6,12 +6,12 @@
     <!-- CSS  -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
-    <link href="../css/bootstrap.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/bootstrap.css" type="text/css" rel="stylesheet" media="screen" />
     <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen" />
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen" />
     
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

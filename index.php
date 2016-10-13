@@ -38,7 +38,7 @@
                 </div>-->
                 <div class="col-xs-12 text-center">                    
                    <div class ="welcome-note">
-                    <h1 id="first-intro" role="heading" aria-level="1">Professionnel d'informatique depuis +5 ans</h1>
+                    <h1 id="first-intro" aria-level="1">Professionnel d'informatique depuis +5 ans</h1>
                     <p id="second-intro">ayant une expertise dans l'<strong>enseignant</strong>, le <strong>service</strong> et
                        <strong>conseil</strong> en ingénierie informatique. Et depuis peu <strong>auteur</strong></p>
                        <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
@@ -112,7 +112,7 @@
                             <p style="text-align: center;"> Un site de restaurant qui permet aux clients de faire des reservations en ligne. Il se veut attractif sur tout support de visualisation. </p>
                             <p><a href="templates/confusion.php" class="more"><button class="myButton text-center">En savoir plus</button></a></p>
                         </div>
-                        <div class="col-md-8"><img src="img/project/confusion.PNG" width="100%"></div>
+                        <div class="col-md-8"><img src="img/project/confusion.PNG" alt="confusion" width="100%"></div>
                    
                
                 
@@ -170,7 +170,7 @@
         </section>
         
         <!-- Engagements-->
-        <section id="training" class="section">
+        <section id="engagements" class="section">
             <h2 class="text-center">Mes engagements</h2>
             
                 <div class="col-xs-12 text-center section-intro">
@@ -181,16 +181,16 @@
                 <div class="col-xs-12 col-md-12">
                    
                     <div class="col-md-3" id="mooc">
-                       <img src="img/pub-protection-donnees-perso.PNG">
+                       <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
                     <div class="col-md-3" id="free">
-                       <img src="img/pub-protection-donnees-perso.PNG">
+                       <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
                     <div class="col-md-3" id="internet"><!--Voir manifeste mozilla-->
-                       <img src="img/pub-protection-donnees-perso.PNG">
+                       <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
                     <div class="col-md-3" id="security"><!--Voir manifeste mozilla-->
-                       <img src="img/pub-protection-donnees-perso.PNG">
+                       <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
                 </div>
                 

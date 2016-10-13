@@ -33,7 +33,7 @@
                             </div>
                             <div class="form-group col-md-12">
                                 <label for="message">Votre message, votre projet</label>
-                                <textarea id="message" type="textarea" class="form-control" rows="6">Je souhaite avoir un site web pour mon entreprise qui...</textarea>
+                                <textarea id="message" class="form-control" rows="6">Je souhaite avoir un site web pour mon entreprise qui...</textarea>
                             </div>
                             <button type="submit" class="myButton pull-right">Envoyer</button><!-- add glyphicon -->
                         </form>
