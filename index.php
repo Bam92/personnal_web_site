@@ -252,13 +252,5 @@
     
    <?php include ("includes/footer.php"); ?>
     
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="js/jquery.js"></script> <!--jQuery in local-->
-    
-    <!-- Javascript for Bootstrap -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script><!--JS for Bootstrap in local-->
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>

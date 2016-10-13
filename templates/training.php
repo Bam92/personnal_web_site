@@ -25,7 +25,7 @@
                          <p>Je suis donc convaincu que tout le monde peut se mettre à l'informatique et ce quel que soit son âge ou son niveau d'étude.</p>
                 <p>J'ai une spécialité que j'aime bien: <br>
                 <strong>traduire le language</strong> des techiciens et ingénieurs en B.A-BA pour les novices</p>
-                        <!--<p>N'hésitez pas à me <a data-toggle="modal" data-target="#training-form" data-backdrop="false">contacter</a> pour votre formation</p>-->
+                        
                <!-- Modal Form 'contact-me for your training'
                 =======================================-->
                      <div class="modal fade" id="training-form" role="dialog">
@@ -103,9 +103,6 @@
         </header>
     
     <div class="container" role="main">
-         
-                 
-        
         
          <!-- Caroussel
         ================================================== -->
@@ -241,18 +238,7 @@
     </div>
     
     <?php include ("../includes/footer.php"); ?>
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="../js/jquery.js"></script> <!--jQuery in local-->
     
-    <!-- Javascript for Bootstrap -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script><!--JS for Bootstrap in local-->
-   <script>
-        $(function () {
-          $('.carousel').carousel({interval: 5000});
-          });
-    </script>
 </body>
     
 </html>
