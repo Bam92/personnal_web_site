@@ -39,8 +39,8 @@
                 <div class="col-xs-12 text-center">                    
                    <div class ="welcome-note">
                     <h1 id="first-intro" aria-level="1">Professionnel de l'IT depuis 5+ ans</h1>
-                    <p id="second-intro">ayant une expertise dans l'<strong>enseignant</strong>, le <strong>service</strong> et
-                       <strong>conseil</strong> en ingénierie informatique. Et depuis peu <strong>auteur</strong></p>
+                    <p id="second-intro"><strong>enseigner</strong>, <strong>conseiller</strong> et vendre des 
+                       <strong>services</strong>. Et <strong>auteur</strong> nocturne</p>
                        <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
                        <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p>
                        <div id="goDown" class="col-xs-offset-6">
