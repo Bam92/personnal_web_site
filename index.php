@@ -38,7 +38,7 @@
                 </div>-->
                 <div class="col-xs-12 text-center">                    
                    <div class ="welcome-note">
-                    <h1 id="first-intro" aria-level="1">Professionnel d'informatique depuis +5 ans</h1>
+                    <h1 id="first-intro" aria-level="1">Professionnel de l'IT depuis 5+ ans</h1>
                     <p id="second-intro">ayant une expertise dans l'<strong>enseignant</strong>, le <strong>service</strong> et
                        <strong>conseil</strong> en ingénierie informatique. Et depuis peu <strong>auteur</strong></p>
                        <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
@@ -172,7 +172,7 @@
             <div class="text-center section-end"> <a href="templates/about.php" class="more"><button class="myButton">En savoir plus</button></a></div><!--Link to about.php-->
         </section>
         
-        <!-- Engagements-->
+        <!-- Engagements
         <section id="engagements" class="section">
             <h2 class="text-center">Mes engagements</h2>
             
@@ -189,17 +189,17 @@
                     <div class="col-md-3" id="free">
                        <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
-                    <div class="col-md-3" id="internet"><!--Voir manifeste mozilla-->
+                    <div class="col-md-3" id="internet">Voir manifeste mozilla
                        <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
-                    <div class="col-md-3" id="security"><!--Voir manifeste mozilla-->
+                    <div class="col-md-3" id="security">Voir manifeste mozilla
                        <img src="img/pub-protection-donnees-perso.PNG" alt="">
                     </div>
                 </div>
                 
                 </div>
                         
-        </section>
+        </section>-->
         <!-- What they say about me-->
         <section id="say" class="section">
             <h2 class="text-center">Ils parlent de moi en bien</h2>
@@ -244,7 +244,7 @@
                 <div class="col-md-4 think">
                     <p>Abel est un informaticien compétent, capable et est sûr de ce qu’il fait. C’est-à-dire qu'il connait bien son métier
                     </p><p>Je l’ai connu comme tout autre. Mais lorsque je me suis approché de lui, j’ai senti la différence par sa façon de travailler
-</p>
+                    </p>
                 </div>
             </div>
             <!--<div class="text-center section-end"> <a href="testimony.html" class="more">En savoir plus...</a></div>Link to testimony.html-->
@@ -255,5 +255,5 @@
     
    <?php include ("includes/footer.php"); ?>
    
-</body>
+  </body>
 </html>
