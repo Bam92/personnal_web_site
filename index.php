@@ -44,7 +44,7 @@
                        <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
                        <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p>
                        <div id="goDown" class="col-xs-offset-6">
-                           <i class="fa fa-angle-down"></i>
+                          <a href="#activity"> <i class="fa fa-angle-down"></i></a>
                        </div>
                     </div>
                 </div>
@@ -254,6 +254,6 @@
     </div>
     
    <?php include ("includes/footer.php"); ?>
-    
+   
 </body>
 </html>

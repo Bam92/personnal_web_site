@@ -83,7 +83,7 @@
                             </a>                   
                                           
                                                     
-                                <div class="col-md-4" id="nteb-bg">
+                      <!--          <div class="col-md-4" id="nteb-bg">
                         <a href="nteb.php">
                             <img class="img-project-item" alt="" src="../img/project/nteb.png" style="display: inline;">
                             <div class="achievement-infobox">
@@ -97,7 +97,7 @@
                                 <p class="achievement-txt">Lore; rjeknrkn</p>
                             </div>
                             </a> 
-                            </div>
+                            </div>-->
                                     
                             
                                                     
@@ -117,11 +117,9 @@
                             
                         </div>
                             </a>
-                       </div> 
+                    <!--   </div> 
                     
-               
-                <br>
-                <div class="row">
+                <div class="row">-->
                     <a href="architect.php">
                     <div class="col-md-4" id="architect-bg" class="achievement">
                         <img class="img-project-item" alt="" src="../img/project/architect.jpg" style="display: inline;">

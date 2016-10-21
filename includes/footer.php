@@ -92,5 +92,13 @@
    <script>
         $(function () {
           $('.carousel').carousel({interval: 5000});
-          });
+         
+       
+        //Script for index.php
+        $("#goDown").click (function() {
+          //  var the_id= $(this).
+        });
+        
+         });
+    
     </script>
