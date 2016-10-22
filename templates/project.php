@@ -73,11 +73,11 @@
                             <h3 class="achievement-title">CSB</h3>
                                 <ul class="achievement-tag">
                                     <li><span aria-hidden="true">#</span>
-                                        intégration</li>
+                                        maintenance</li>
                                     <li><span aria-hidden="true">#</span>
                                         développement</li>
                                 </ul>
-                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                                <p class="achievement-txt">Tous les challenges de la maitenance d'un site avec un back-office inaccessible</p>
                             </div>
                             </div>
                             </a>                   
@@ -131,7 +131,7 @@
                                     <li><span aria-hidden="true">#</span>
                                         developpement</li>
                                 </ul>
-                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                                <p class="achievement-txt">Site vitrine pour une jeune entreprise spécialisée dans les bâtiments. Il se veut responsive et one page</p>
                             </div>
                         
                     </div>
@@ -429,8 +429,13 @@
     <script src="../js/jquery.js"></script>
     <script>
         $(function () {
+            $(".achievement-txt").hide();
             $(".achievement-infobox").mouseover (function () {
-                $(".achievement-txt").show();
+                $(".achievement-txt").show("slow", "linear");
+                
+            });
+            $(".achievement-infobox").mouseout (function () {
+                $(".achievement-txt").hide();
                 
             });
         });

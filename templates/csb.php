@@ -21,7 +21,7 @@
                         <li><span aria-hidden="true">#</span>développement</li>
 
                     </ul>
-                    <p style="text-align: center;"> Tous les challenges de la maitenance d'un site avec un back-office inaccessible</p>
+                    <p class="text-center"> Tous les challenges de la maitenance d'un site avec un back-office inaccessible</p>
                     <p class="text-center"><a href="http://www.centresurveillancebiodiversite.org" class="more"><button class="myButton">Voir le site</button></a></p>
                 </div>
                 <div class="col-md-8"><img src="../img/project/confusion.PNG" width="100%"></div>
