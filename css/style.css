@@ -58,18 +58,19 @@ Style for jumbotron
 }
 #first-intro {
     font-size: 3.855em;
-    
+    text-shadow: 2px 2px orange;
     line-height: 1.16129em;
     margin-bottom: 0.32258em;
 }
 #second-intro, #full-stack {
     font-size: 2.125em;
-    
+    text-shadow: 2px 2px orange;
     line-height: 1.17647em;
     
 }
 #get-started {
     margin-top: 0.32258em;
+    text-shadow: 1px 1px orange;
 }
 
 #goDown {

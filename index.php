@@ -4,7 +4,7 @@
 <head>
     <?php include ("includes/head-import.php"); ?>
     
-    <title>Abel Lifaefi Mbula | Site personnel</title>
+    <title>Abel Lifaefi Mbula | Développeur Web sur Kisangani</title>
     
 </head>
 
@@ -38,11 +38,11 @@
                 </div>-->
                 <div class="col-xs-12 text-center">                    
                    <div class ="welcome-note">
-                    <h1 id="first-intro" aria-level="1">Professionnel de l'IT depuis 5+ ans</h1>
+                    <h1 id="first-intro" aria-level="1">Professionnel de l'<abbr title="Information Technology">IT</abbr> depuis 5+ ans</h1>
                     <p id="second-intro"><strong>enseigner</strong>, <strong>conseiller</strong> et vendre des 
                        <strong>services</strong>. Et <strong>auteur</strong> nocturne</p>
                        <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
-                       <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p>
+                       <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p><br />
                        <div id="goDown" class="col-xs-offset-6">
                           <a href="#activity"> <i class="fa fa-angle-down"></i></a>
                        </div>
