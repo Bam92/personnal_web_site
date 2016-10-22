@@ -285,6 +285,11 @@ p a:hover, .more:hover {
 }
 .myButton {
     text-transform: uppercase;
+    text-align: center;
+}
+.personal-button {
+    
+    text-align: center;
 }
 /*Images*/
 .img-center {
