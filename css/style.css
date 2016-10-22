@@ -47,11 +47,11 @@ Style for jumbotron
 =====================================================*/
 #welcome {
     /*height: 600px;*/
-    min-height: 600px;
+    min-height: 650px;
     max-height: 1000px;
     font-weight: 100;
-     letter-spacing: 0;
-    background-image: url(../img/background-home.jpg);
+    letter-spacing: 0;
+    background-image: url(../img/bg-new.jpg);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
