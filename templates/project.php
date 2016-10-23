@@ -112,7 +112,7 @@
                                     <li><span aria-hidden="true">#</span>
                                         développement</li>
                                 </ul>
-                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                                <p class="achievement-txt">Site vitrine responsive d'un développeur Full Stack</p>
                             </div>
                             
                         </div>
