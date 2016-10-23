@@ -152,7 +152,20 @@
                             </div>
                     </div>
                     </a>
-                    <div class="col-md-4" id=""></div>
+                    <a href="cv-jean.php">
+                    <div class="col-md-4" id="cv-jean" class="achievement">
+                        <img class="img-project-item" alt="" src="../img/project/jean-dupond.png" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">Jean DuPond - CV</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        integration</li>
+                                    
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                    </div>
+                    </a>
                 </div>
             </div>
         </section>

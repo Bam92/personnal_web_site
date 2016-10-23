@@ -4,7 +4,7 @@
 <head>
     <?php include ("../includes/head-import.php"); ?>
     
-    <title>Abel Lifaefi Mbula | A propos de moi</title>
+    <title>Abel Lifaefi Mbula | Développeur Full Stack sur Kisangani</title>
 
     
 </head>
@@ -43,12 +43,9 @@
         <div class="container">
             <div class="row row-header">
                 <div class="col-xs-12 col-md-12">
-                    <h1>Développeur Full Stack ~ Formateur ~ Auteur</h1>
-                    <!--p style="padding:25px;"></p-->
-                    <p>Je me charge de traduire la maquette fourni par le designer en languages web; je bâtis des interfaces web solides et efficaces tout en respectant les normes en vigueur
-                    </p>
-                    <p>Je partage ma connaissance à travers des cours en présentiels et à distance</p>
-                    <p>Et par dessus tout, je me mets à l'écriture afin de rassembler toute ma connaissance dans des ouvrages/articles pour des générations futures</p>
+                    <h1>Développeur Full Stack, Formateur &amp; Auteur</h1>
+                    
+                    <p>Apprendre quelque chose de nouveau chaque jour et partager avec la génération actuelle et à venir</p>
                 </div>
             </div>
         </div>
@@ -63,14 +60,14 @@
                 <h2 class="text-center">Quelques chiffres clés</h2>
                 <div class="row">
                     <div class="col-md-12 text-center section-intro">
-                        <p>Je suis un <strong>professionnel</strong> d'informatique depuis quelques années. Les chiffres parlent d'eux-mêmes</p>
+                        <p>Je suis un <strong>professionnel</strong> d'informatique depuis plusieurs années. Les chiffres parlent d'eux-mêmes</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-xs-12 col-md-3" id="anneeExperience">
                         <div class="text-center" style="color:#ff9800">
                        <span class ="glyphicon
-                        glyphicon-briefcase text-center"></span><h3>6+</h3></div>
+                        glyphicon-briefcase text-center"></span><h3>5+</h3></div>
                         <p>années d'expérience dans l'informatique et le web</p>
                     </div>
                     <div class="col-xs-12 col-md-3" id="personneFormee">
