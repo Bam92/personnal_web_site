@@ -166,6 +166,38 @@
                             </div>
                     </div>
                     </a>
+                    <!--Carnet de voyage-->
+                    <a href="zozor.php">
+                    <div class="col-md-4" id="zozor-voyage" class="achievement">
+                        <img class="img-project-item" alt="" src="../img/project/jean-dupond.png" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title">Zozor - Voyage</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        integration</li>
+                                    <li><span aria-hidden="true">#</span>
+                                        développement</li>
+                                    
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                    </div>
+                    </a>
+                    <!--Bibliothèque Unikis -->
+                    <a href="bibli_unikis.php">
+                    <div class="col-md-4" id="zozor-voyage" class="achievement">
+                        <img class="img-project-item" alt="" src="../img/project/jean-dupond.png" style="display: inline;">
+                            <div class="achievement-infobox">
+                            <h3 class="achievement-title"><abbr title="Universté de Kisangani">Unikis</abbr> - Bibliothèque numérique</h3>
+                                <ul class="achievement-tag">
+                                    <li><span aria-hidden="true">#</span>
+                                        integration</li>
+                                    
+                                </ul>
+                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                            </div>
+                    </div>
+                    </a>
                 </div>
             </div>
         </section>
