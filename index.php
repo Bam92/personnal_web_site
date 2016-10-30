@@ -40,9 +40,9 @@
                    <div class ="welcome-note">
                     <h1 id="first-intro" aria-level="1">Professionnel de l'<abbr title="Information Technology">IT</abbr> depuis 5+ ans</h1>
                     <p id="second-intro"><strong>enseigner</strong>, <strong>conseiller</strong> et vendre des 
-                       <strong>services</strong>. Et <strong>auteur</strong> nocturne</p>
-                       <p id="full-stack">Actuellement <strong>Développeur Web Full Stack</strong></p><br>
-                       <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p><br />
+                       <strong>services</strong><!-- Et <strong>auteur</strong> nocturne--></p>
+                       <p id="full-stack">retrouvez la joie de travailler avec un <strong>Développeur Web Full Stack</strong></p><br>
+                       <!-- <p id="get-started">Curieux-se? Cliquez pour en savoir plus</p>--><br />
                        <div id="goDown" class="col-xs-offset-6">
                           <a href="#activity"> <i class="fa fa-angle-down"></i></a>
                        </div>
@@ -215,8 +215,8 @@
                     <h5>Net et sys Admin, <strong><a href="http://www.unikis.ac.cd">UNIKIS</a></strong></h5>
                 </div>
                 <div class="col-md-4 think">
-                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
-                    Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnknLorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje </p>
+                    <p>Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom
+                    Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom </p>
                     <p></p>
                 </div>
                 <div class="col-md-2"><img src="img/profil.jpg" alt="image2" class="img-circle">
@@ -224,9 +224,8 @@
                     <h5>Chef d'entreprise, <strong>CD Training</strong></h5>
                 </div>
                 <div class="col-md-4 think">
-                    <p>m dokjkwje ejkwnkd kjdnskjhkjd kjnks kjkwje ejkwnkd kjdnskjhkjd kjnksnkn</p>
-                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn
-                    Lorem ipsom dokjkwje</p>
+                    <p>Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom</p>
+                    <p>Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom</p>
                 </div>
             </div>
             <div class="row">
@@ -235,7 +234,7 @@
                     <p>Chercheuse, <strong>CSB</strong></p>
                 </div>
                 <div class="col-md-4 think">
-                    <p>Lorem ipsom dokjkwje ejkwnkd kjdnskjhkjd kjnksnkn </p>
+                    <p>Lorem ipsom Lorem ipsom Lorem ipsom Lorem ipsom </p>
                 </div>
                 <div class="col-md-2"><img src="img/michel-nteb.png" alt="michel nteb" class="img-circle">
                     <h4>Michel Longombo</h4>
