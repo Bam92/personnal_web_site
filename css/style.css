@@ -101,38 +101,18 @@ a h3 {
 
 #confusion-bg {
    background-image: url(../img/project/restaurant.png);
-     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-#csb-bg:hover {
-   /* background-image: url(../img/project/biodiversity.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;*/
-    opacity: 0.3;
-}
-#nteb-bg:hover {
-   /* background-image: url(../img/project/nteb.png);*/
-    opacity: 0.3;
-}
-#superpose-bg:hover {
-   /* background-image: url(../img/project/piscine.jpg);*/
-    opacity: 0.3;
-}
-#architect-bg:hover {
-   /* background-image: url(../img/project/architect.jpg);
-    color: black;*/
-    opacity: 0.3;
-}
-#architect-bg h1 {
-    
-    color: black;
-}
-#me-bg:hover{
-    opacity: 0.3;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
 }
 
+.achievement:hover {
+    opacity: 0.3;
+}
+.achievement {
+    /*border: 2px solid red;*/
+    margin-bottom: 25px;
+}
 /* Achievement*/
 .achievement-infobox {
 position: absolute;

@@ -47,7 +47,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <h1 class="text-center">con Fusion</h1>
-                            <ul class="achievement-tag text-center">
+                            <ul class="achievement-tag">
                                 <li><span aria-hidden="true">#</span>
                                     intégration</li>
                                 <li><span aria-hidden="true">#</span>
@@ -64,10 +64,10 @@
             </div>
             
             <div class="container">
-                
+                <!-- Some items about my personnel projects-->
                     <div class="row">
                         <a href="csb.php">
-                        <div class="col-md-4" id="csb-bg">
+                        <div class="col-md-4 achievement" id="csb-bg">
                             <img class="img-project-item" alt="" src="../img/project/csb-old.png" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title">CSB</h3>
@@ -102,7 +102,7 @@
                             
                                                     
                         <a href="bam.php">
-                        <div class="col-md-4" id="me-bg">
+                        <div class="col-md-4 achievement" id="me-bg">
                             <img class="img-project-item" alt="" src="../img/background-home.jpg" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title">Abel</h3>
@@ -121,7 +121,7 @@
                     
                 <div class="row">-->
                     <a href="architect.php">
-                    <div class="col-md-4" id="architect-bg" class="achievement">
+                    <div class="col-md-4 achievement" id="architect-bg">
                         <img class="img-project-item" alt="" src="../img/project/architect.jpg" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title">La maison d'architecte</h3>
@@ -153,7 +153,7 @@
                     </div>
                     </a>-->
                     <a href="cv-jean.php">
-                    <div class="col-md-4" id="cv-jean" class="achievement">
+                    <div class="col-md-4 achievement" id="cv-jean">
                         <img class="img-project-item" alt="" src="../img/project/jean-dupond.png" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title">Jean DuPond - CV</h3>
@@ -162,13 +162,13 @@
                                         integration</li>
                                     
                                 </ul>
-                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                                <p class="achievement-txt">Conception d'un CV web à l'occasion d'un concours</p>
                             </div>
                     </div>
                     </a>
                     <!--Carnet de voyage-->
                     <a href="zozor.php">
-                    <div class="col-md-4" id="zozor-voyage" class="achievement">
+                    <div class="col-md-4 achievement" id="zozor-voyage">
                         <img class="img-project-item" alt="" src="../img/project/jean-dupond.png" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title">Zozor - Voyage</h3>
@@ -179,13 +179,13 @@
                                         développement</li>
                                     
                                 </ul>
-                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                                <p class="achievement-txt">Projet de création d'un site web de A à Z à l'occasion d'une formation </p>
                             </div>
                     </div>
                     </a>
                     <!--Bibliothèque Unikis -->
                     <a href="bibli_unikis.php">
-                    <div class="col-md-4" id="zozor-voyage" class="achievement">
+                    <div class="col-md-4 achievement" id="zozor-voyage">
                         <img class="img-project-item" alt="" src="../img/project/uniki-bibli.jpg" style="display: inline;">
                             <div class="achievement-infobox">
                             <h3 class="achievement-title"><abbr title="Universté de Kisangani">Unikis</abbr> - Bibliothèque numérique</h3>
@@ -194,7 +194,7 @@
                                         integration</li>
                                     
                                 </ul>
-                                <p class="achievement-txt">Lore; rjeknrkn</p>
+                                <p class="achievement-txt">Mise en place de l'interface d'accueil de l'intranet d'une université</p>
                             </div>
                     </div>
                     </a>
