@@ -137,7 +137,7 @@
                     </div>
                     </a>
                     
-                    <a href="superpose.php">
+                    <!--<a href="superpose.php">
                     <div class="col-md-4" id="superpose-bg" class="achievement">
                         <img class="img-project-item" alt="" src="../img/project/piscine.jpg" style="display: inline;">
                             <div class="achievement-infobox">
@@ -151,7 +151,7 @@
                                 <p class="achievement-txt">Lore; rjeknrkn</p>
                             </div>
                     </div>
-                    </a>
+                    </a>-->
                     <a href="cv-jean.php">
                     <div class="col-md-4" id="cv-jean" class="achievement">
                         <img class="img-project-item" alt="" src="../img/project/jean-dupond.png" style="display: inline;">
@@ -474,13 +474,13 @@
     <script src="../js/jquery.js"></script>
     <script>
         $(function () {
-            $(".achievement-txt").hide();
+           /* $(".achievement-txt").hide();
             $(".achievement-infobox").mouseover (function () {
                 $(".achievement-txt").show("slow", "linear");
                 
             });
             $(".achievement-infobox").mouseout (function () {
-                $(".achievement-txt").hide();
+                $(".achievement-txt").hide();*/
                 
             });
         });
